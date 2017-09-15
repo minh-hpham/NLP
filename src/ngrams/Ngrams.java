@@ -103,14 +103,7 @@ public class Ngrams {
 	private static ArrayList<Data> sentenceProbability(InputStream test, HashMap<String, Integer> unigrams,
 			HashMap<String, Node> bigrams) {
 		int unigrams_count = countUnigrams(unigrams);
-		int biNoSmooth_count = 0;
-		int biSmooth_count = 0;
-		for (String word : bigrams.keySet()) {
-			biNoSmooth_count += bigrams.get(word).size();// total frequencies of existed bigrams
-			biSmooth_count += bigrams.get(word).getNumberOfBigram(); // number of possible bigrams start with this word
-		}
-		biSmooth_count += biNoSmooth_count;
-
+		
 		ArrayList<Data> prob = new ArrayList<Data>();
 		BufferedReader reader = null;
 		try {
@@ -122,16 +115,15 @@ public class Ngrams {
 
 				//Node node = bigrams.get("PHI");
 				double uni_prob = 1;
-				double unsmooth_bi_prob = 1;//(double) node.getBigramFrequency(st[0]) / (double) biNoSmooth_count;
-				double smooth_bi_prob = 1;//(double) (node.getBigramFrequency(st[0]) + 1) / (double) biSmooth_count;
-				int i;
+				double unsmooth_bi_prob = 1;
+				double smooth_bi_prob = 1;
 				String pre = "PHI";
 				Node node = null;
-				for (i = 0; i < st.length; i++) {
+				for (int i = 0; i < st.length; i++) {
 					node = bigrams.get(pre);
 					uni_prob *= (double) unigrams.get(st[i]) / (double) unigrams_count;
-					unsmooth_bi_prob *= (double) node.getBigramFrequency(st[i]) / (double) biNoSmooth_count;
-					smooth_bi_prob *= (double) (node.getBigramFrequency(st[i]) + 1) / (double) biSmooth_count;
+					unsmooth_bi_prob *= (double) node.getBigramFrequency(st[i]) / (double) node.size();
+					smooth_bi_prob *= (double) (node.getBigramFrequency(st[i]) + 1) / (double) (node.size()+unigrams.size());
 					pre = st[i];
 				}
 				
