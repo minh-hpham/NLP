@@ -45,7 +45,7 @@ public class Ngrams {
 						node = new Node(pre);
 					}
 					node.addBigram(st[i]);
-					bigrams.put(st[i],node);
+					bigrams.put(pre,node);
 					pre = st[i];
 				}
 			}
