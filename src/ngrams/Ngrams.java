@@ -9,7 +9,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Set;
 
 public class Ngrams {
 
@@ -164,94 +163,6 @@ public class Ngrams {
 			count += unigrams.get(word);
 		}
 		return count;
-	}
-
-
-	/*
-	 * Returns a map of word(s) to its frequence
-	 */
-	private static HashMap<String, Node> buildBigramsNoSmooth(HashMap<String, Integer> unigrams, InputStream in) {
-		HashMap<String, Node> dataset = new HashMap<String, Node>();
-		Set<String> words = unigrams.keySet();
-		Node phi = new Node("PHI");
-		for (String word : words) {
-			//phi.newBigram(word);
-		}
-		dataset.put("PHI", phi);
-
-		for (String word : words) {
-			Node node = new Node(word);
-			if (dataset.containsKey(word)) {
-				node = dataset.get(word);
-			}
-			for (String another : words) {
-				//node.newBigram(another);
-			}
-			dataset.put(word, node);
-		}
-
-		BufferedReader reader = null;
-		try {
-			reader = new BufferedReader(new InputStreamReader(in));
-			String line;
-			while ((line = reader.readLine()) != null) {
-				String[] st = line.toLowerCase().split("\\s+");
-				Node node = dataset.get("PHI");
-				node.addBigram(st[0]);
-				dataset.put("PHI", node);
-				for (int i = 0; i < st.length - 1; i++) {
-					node = dataset.get(st[i]);
-					node.addBigram(st[i + 1]);
-					dataset.put(st[i], node);
-				}
-			}
-
-		} catch (IOException e) {
-			e.printStackTrace();
-		} finally {
-			try {
-				reader.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-		return dataset;
-
-	}
-
-	/*
-	 * Returns a map of word(s) to its frequence
-	 */
-	private static HashMap<String, Integer> buildUnigrams(InputStream in) {
-		HashMap<String, Integer> dataset = null;
-		BufferedReader reader = null;
-
-		try {
-			dataset = new HashMap<String, Integer>();
-			reader = new BufferedReader(new InputStreamReader(in));
-			String line;
-			while ((line = reader.readLine()) != null) {
-				String[] st = line.toLowerCase().split("\\s+");
-				for (int i = 0; i < st.length; i++) {
-					if (dataset.containsKey(st[i])) {
-						int freq = dataset.get(st[i]) + 1;
-						dataset.replace(st[i], freq);
-					} else {
-						dataset.put(st[i], 1);
-					}
-				}
-			}
-
-		} catch (IOException e) {
-			e.printStackTrace();
-		} finally {
-			try {
-				reader.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-		return dataset;
 	}
 
 }
