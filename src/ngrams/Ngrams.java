@@ -123,7 +123,12 @@ public class Ngrams {
 					node = bigrams.get(pre);
 					uni_prob *= (double) unigrams.get(st[i]) / (double) unigrams_count;
 					unsmooth_bi_prob *= (double) node.getBigramFrequency(st[i]) / (double) node.size();
-					smooth_bi_prob *= (double) (node.getBigramFrequency(st[i]) + 1) / (double) (node.size()+unigrams.size());
+					if (pre.equals("PHI")){
+						smooth_bi_prob *= (double) (node.getBigramFrequency(st[i]) + 1) / (double) (node.size()+unigrams.size());
+					} else {
+						smooth_bi_prob *= (double) (node.getBigramFrequency(st[i]) + 1) / (double) (unigrams.get(pre)+unigrams.size());
+					}
+					
 					pre = st[i];
 				}
 				
