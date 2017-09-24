@@ -41,8 +41,13 @@ public class Viterbi {
 			System.out.println("FINAL VITERBI NETWORK");
 			for (int w = 0; w < words.length; w++ ) {
 				for (int t = 1; t < tags.length; t++) {
-					double log = Math.log(d.getScore(t, w))/Math.log(2);
-					System.out.println(String.format("P(%s=%s) = %.4f", words[w],tags[t],log));
+					double log = d.getScore(t, w); 
+					if (log > 0) {
+						System.out.println(String.format("P(%s=%s) = %.4f", words[w],tags[t],Math.log(log)/Math.log(2)));
+					} else {
+						System.out.println(String.format("P(%s=%s) = undefined", words[w],tags[t]));
+
+					}
 				}
 			}
 			System.out.println("\nFINAL BACKPTR NETWORK");
@@ -53,16 +58,17 @@ public class Viterbi {
 				}
 			}
 			
-			double bestTag = 1;
 			int tag ;
 			int[] seq = d.getSeq();
-//			for (int w = 0; w < seq.length; w++) {
-//				tag = seq[w];
-//				bestTag *= d.getScore(tag, w);
-//			}
 			tag = seq[words.length-1];
+			double score = d.getScore(tag, words.length-1);
+			if ( score > 0) {
+				double bestTag = Math.log(score)/Math.log(2);
+				System.out.println(String.format("\nBEST TAG SEQUENCE HAS LOG PROBABILITY = %.4f", bestTag));
+			} else {
+				System.out.println("\nBEST TAG SEQUENCE HAS LOG PROBABILITY = undefined");
+			}
 			
-			System.out.println(String.format("\nBEST TAG SEQUENCE HAS LOG PROBABILITY = %.4f", (Math.log(d.getScore(tag, words.length-1))/Math.log(2))));
 			for (int w = seq.length-1; w >= 0; w--) {
 				tag = seq[w];
 				System.out.println(String.format("%s -> %s", words[w],tags[tag]));
