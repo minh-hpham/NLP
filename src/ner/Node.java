@@ -22,7 +22,7 @@ public class Node {
 	}
 	public void setABBR(boolean isOption) {
 		if (isOption) {
-			ABBR = WORD.length() <= 4 && WORD.matches("^([a-zA-Z]){0,3}(\\.+)$") ? "yes" : "no";
+			ABBR = WORD.length() <= 4 && WORD.matches("^([a-zA-Z]){0,3}(\\.+)$|\\.") ? "yes" : "no";
 		} else {
 			ABBR = "n/a";
 		}
@@ -30,6 +30,20 @@ public class Node {
 	public void setCAP (boolean isOption) {
 		if (isOption) {
 			CAP = Character.isUpperCase(WORD.charAt(0)) ? "yes":"no";
+		} else {
+			CAP = "n/a";
+		}
+	}
+	public void setABBR(boolean isOption, String originalWord) {
+		if (isOption) {
+			ABBR = WORD.length() <= 4 && originalWord.matches("^([a-zA-Z]){0,3}(\\.+)$|\\.") ? "yes" : "no";
+		} else {
+			ABBR = "n/a";
+		}
+	}
+	public void setCAP (boolean isOption, String originalWord) {
+		if (isOption) {
+			CAP = Character.isUpperCase(originalWord.charAt(0)) ? "yes":"no";
 		} else {
 			CAP = "n/a";
 		}

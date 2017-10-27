@@ -83,7 +83,7 @@ WORDCON: convicted of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -146,7 +146,7 @@ WORD: UNK
 WORDCON: King ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -211,7 +211,7 @@ WORDCON: a at
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -283,7 +283,7 @@ WORDCON: Her 's
 POS: NN
 POSCON: PP$ POS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 's
@@ -299,7 +299,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -451,7 +451,7 @@ WORDCON: an about
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: about
@@ -603,7 +603,7 @@ WORDCON: to years
 POS: CD
 POSCON: TO NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: years
@@ -627,7 +627,7 @@ WORDCON: in in
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -643,7 +643,7 @@ WORDCON: in when
 POS: CD
 POSCON: IN WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: when
@@ -691,7 +691,7 @@ WORDCON: to and
 POS: VBG
 POSCON: TO CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -787,7 +787,7 @@ WORDCON: a of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -923,7 +923,7 @@ WORDCON: Thursday the
 POS: VBN
 POSCON: NNP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -1010,7 +1010,7 @@ WORD: UNK
 WORDCON: King ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -1091,7 +1091,7 @@ WORDCON: to James
 POS: VB
 POSCON: TO NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: James
@@ -1139,7 +1139,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -1187,7 +1187,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -1235,7 +1235,7 @@ WORDCON: was .
 POS: VBN
 POSCON: VBD .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -1403,7 +1403,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -1459,7 +1459,7 @@ WORDCON: 's to
 POS: NN
 POSCON: POS TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -1507,7 +1507,7 @@ WORDCON: and wounded
 POS: RB
 POSCON: CC VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: wounded
@@ -1563,7 +1563,7 @@ WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -1811,7 +1811,7 @@ WORDCON: Kennedy ,
 POS: NN
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -1923,7 +1923,7 @@ WORDCON: helped UNK
 POS: NNS
 POSCON: VBN VB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -1931,7 +1931,7 @@ WORDCON: UNK _
 POS: VB
 POSCON: NNS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: _
@@ -1979,7 +1979,7 @@ WORDCON: cases UNK
 POS: RB
 POSCON: NNS VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -1987,7 +1987,7 @@ WORDCON: UNK _
 POS: VBP
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: _
@@ -2043,7 +2043,7 @@ WORDCON: nine UNK
 POS: NNS
 POSCON: CD VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -2051,7 +2051,7 @@ WORDCON: UNK the
 POS: VBG
 POSCON: NNS DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -2195,7 +2195,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -2227,7 +2227,7 @@ WORDCON: building national
 POS: VBD
 POSCON: NN JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: national
@@ -2243,7 +2243,7 @@ WORDCON: national when
 POS: NN
 POSCON: JJ WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: when
@@ -2283,7 +2283,7 @@ WORDCON: UNK shot
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -2363,7 +2363,7 @@ WORDCON: a floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -2411,7 +2411,7 @@ WORDCON: presidential passed
 POS: NN
 POSCON: JJ VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: passed
@@ -2435,7 +2435,7 @@ WORDCON: the '
 POS: NN
 POSCON: DT ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -2475,7 +2475,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -2483,7 +2483,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -2539,7 +2539,7 @@ WORDCON: photo also
 POS: NNS
 POSCON: NN RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: also
@@ -2579,7 +2579,7 @@ WORDCON: a of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -2603,7 +2603,7 @@ WORDCON: three near
 POS: NNS
 POSCON: CD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: near
@@ -2627,7 +2627,7 @@ WORDCON: the scene
 POS: VBG
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: scene
@@ -2715,14 +2715,14 @@ WORDCON: Watergate UNK
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
 WORDCON: UNK Howard
 POS: NNP
 POSCON: NN NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -2795,7 +2795,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -2859,7 +2859,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -2939,7 +2939,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -3155,7 +3155,7 @@ WORDCON: Kennedy ,
 POS: NN
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -3267,7 +3267,7 @@ WORDCON: helped UNK
 POS: NNS
 POSCON: VBN VB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -3275,7 +3275,7 @@ WORDCON: UNK _
 POS: VB
 POSCON: NNS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: _
@@ -3323,7 +3323,7 @@ WORDCON: cases UNK
 POS: RB
 POSCON: NNS VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -3331,7 +3331,7 @@ WORDCON: UNK _
 POS: VBP
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: _
@@ -3387,7 +3387,7 @@ WORDCON: nine UNK
 POS: NNS
 POSCON: CD VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -3395,7 +3395,7 @@ WORDCON: UNK the
 POS: VBG
 POSCON: NNS DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -3539,7 +3539,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -3571,7 +3571,7 @@ WORDCON: building national
 POS: VBD
 POSCON: NN JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: national
@@ -3587,7 +3587,7 @@ WORDCON: national when
 POS: NN
 POSCON: JJ WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: when
@@ -3627,7 +3627,7 @@ WORDCON: UNK shot
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -3707,7 +3707,7 @@ WORDCON: a floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -3755,7 +3755,7 @@ WORDCON: presidential passed
 POS: NN
 POSCON: JJ VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: passed
@@ -3779,7 +3779,7 @@ WORDCON: the '
 POS: NN
 POSCON: DT ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -3819,7 +3819,7 @@ WORDCON: among of
 POS: NNS
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -3883,7 +3883,7 @@ WORDCON: are of
 POS: NNS
 POSCON: VBP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -3907,7 +3907,7 @@ WORDCON: the life
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: life
@@ -3987,7 +3987,7 @@ WORDCON: in and
 POS: NN
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -4019,7 +4019,7 @@ WORDCON: in and
 POS: NN
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -4171,7 +4171,7 @@ WORDCON: an intelligence
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: intelligence
@@ -4211,7 +4211,7 @@ WORDCON: his after
 POS: NN
 POSCON: PP$ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -4227,7 +4227,7 @@ WORDCON: after Lincoln
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lincoln
@@ -4371,7 +4371,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -4410,7 +4410,7 @@ WORD: UNK
 WORDCON: after Robert
 POS: NNP
 POSCON: IN NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -4426,7 +4426,7 @@ WORD: UNK
 WORDCON: Robert Lee
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -4499,7 +4499,7 @@ WORDCON: authors .
 POS: VBP
 POSCON: NNS .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -4595,7 +4595,7 @@ WORDCON: had ended
 POS: RB
 POSCON: VBD VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ended
@@ -4699,7 +4699,7 @@ WORDCON: could the
 POS: VB
 POSCON: MD DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -4827,7 +4827,7 @@ WORDCON: A used
 POS: NN
 POSCON: DT VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: used
@@ -4867,7 +4867,7 @@ WORDCON: the was
 POS: NN
 POSCON: DT VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: was
@@ -5011,7 +5011,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -5091,7 +5091,7 @@ WORDCON: a actor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: actor
@@ -5155,7 +5155,7 @@ WORDCON: of over
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: over
@@ -5195,7 +5195,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -5355,7 +5355,7 @@ WORDCON: UNK a
 POS: VBD
 POSCON: NNP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -5683,7 +5683,7 @@ WORDCON: , UNK
 POS: VBG
 POSCON: , CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -5691,7 +5691,7 @@ WORDCON: UNK years
 POS: CD
 POSCON: VBG NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: years
@@ -5715,7 +5715,7 @@ WORDCON: for King
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: King
@@ -5803,7 +5803,7 @@ WORDCON: Several planned
 POS: NNS
 POSCON: JJ VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: planned
@@ -5819,7 +5819,7 @@ WORDCON: planned later
 POS: NNS
 POSCON: VBD JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: later
@@ -6059,7 +6059,7 @@ WORDCON: the .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -6131,7 +6131,7 @@ WORDCON: a window
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: window
@@ -6179,7 +6179,7 @@ WORDCON: 's .
 POS: NN
 POSCON: POS .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -6251,7 +6251,7 @@ WORDCON: a window
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: window
@@ -6299,7 +6299,7 @@ WORDCON: 's .
 POS: NN
 POSCON: POS .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -6331,7 +6331,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -6395,7 +6395,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -6539,7 +6539,7 @@ WORDCON: and wounded
 POS: RB
 POSCON: CC VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: wounded
@@ -6595,7 +6595,7 @@ WORDCON: the UNK
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -6603,7 +6603,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -6707,7 +6707,7 @@ WORDCON: an truck
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: truck
@@ -6803,7 +6803,7 @@ WORDCON: county .
 POS: NN
 POSCON: NN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -6835,7 +6835,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -6899,7 +6899,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -7043,7 +7043,7 @@ WORDCON: and wounded
 POS: RB
 POSCON: CC VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: wounded
@@ -7099,7 +7099,7 @@ WORDCON: the UNK
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -7107,7 +7107,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -7211,7 +7211,7 @@ WORDCON: an truck
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: truck
@@ -7307,7 +7307,7 @@ WORDCON: county .
 POS: NN
 POSCON: NN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -7379,7 +7379,7 @@ WORDCON: is UNK
 POS: VBG
 POSCON: VBZ CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -7387,7 +7387,7 @@ WORDCON: UNK years
 POS: CD
 POSCON: VBG NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: years
@@ -7411,7 +7411,7 @@ WORDCON: in for
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -7427,7 +7427,7 @@ WORDCON: for murder
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: murder
@@ -7571,7 +7571,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -7683,7 +7683,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -7763,7 +7763,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -7915,7 +7915,7 @@ WORDCON: Lee Wednesday
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Wednesday
@@ -7971,7 +7971,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -7987,7 +7987,7 @@ WORDCON: of UNK
 POS: JJ
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -8027,7 +8027,7 @@ WORDCON: A to
 POS: NN
 POSCON: DT TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -8075,7 +8075,7 @@ WORDCON: the floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -8187,7 +8187,7 @@ WORDCON: UNK fired
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: fired
@@ -8211,7 +8211,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -8299,15 +8299,15 @@ WORDCON: , UNK
 POS: NNS
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
 WORDCON: UNK OMEGA
 POS: NN
 POSCON: NNS OMEGAPOS
-ABBR: no
-CAP: yes
+ABBR: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -8419,7 +8419,7 @@ WORDCON: were this
 POS: VBN
 POSCON: VBD DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: this
@@ -8475,7 +8475,7 @@ WORDCON: of to
 POS: NN
 POSCON: IN TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -8546,7 +8546,7 @@ WORD: UNK
 WORDCON: UNK OMEGA
 POS: NNP
 POSCON: NNP OMEGAPOS
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -8563,7 +8563,7 @@ WORDCON: UNK repeatedly
 POS: VBD
 POSCON: NNP RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: repeatedly
@@ -8627,7 +8627,7 @@ WORDCON: the for
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -8803,7 +8803,7 @@ WORDCON: his ,
 POS: NN
 POSCON: PP$ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -8939,7 +8939,7 @@ WORDCON: felt by
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -9019,7 +9019,7 @@ WORDCON: and marked
 POS: NNS
 POSCON: CC VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: marked
@@ -9075,7 +9075,7 @@ WORDCON: a on
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -9099,7 +9099,7 @@ WORDCON: the floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -9259,7 +9259,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -9355,7 +9355,7 @@ WORDCON: first to
 POS: NNS
 POSCON: JJ TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -9387,7 +9387,7 @@ WORDCON: new at
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -9483,7 +9483,7 @@ WORDCON: the spot
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: spot
@@ -9531,7 +9531,7 @@ WORDCON: UNK fired
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: fired
@@ -9555,7 +9555,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -9675,7 +9675,7 @@ WORDCON: UNK Danny
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Danny
@@ -9795,7 +9795,7 @@ WORDCON: UNK shot
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -9883,7 +9883,7 @@ WORDCON: a .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -9907,7 +9907,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -10019,7 +10019,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -10115,7 +10115,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -10299,7 +10299,7 @@ WORDCON: of that
 POS: NNS
 POSCON: IN WDT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -10363,7 +10363,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -10387,7 +10387,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT VB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -10395,7 +10395,7 @@ WORDCON: UNK Jesse
 POS: VB
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Jesse
@@ -10659,7 +10659,7 @@ WORDCON: the civil
 POS: VBN
 POSCON: DT JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: civil
@@ -10739,7 +10739,7 @@ WORDCON: King James
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: James
@@ -10827,7 +10827,7 @@ WORDCON: father '
 POS: NN
 POSCON: NN ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -10859,7 +10859,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -10939,7 +10939,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -11019,7 +11019,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -11075,7 +11075,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -11235,7 +11235,7 @@ WORDCON: his tenure
 POS: JJ
 POSCON: PP$ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: tenure
@@ -11371,7 +11371,7 @@ WORDCON: 1968 of
 POS: NN
 POSCON: CD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -11451,7 +11451,7 @@ WORDCON: , life
 POS: VBG
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: life
@@ -11475,7 +11475,7 @@ WORDCON: in for
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -11491,7 +11491,7 @@ WORDCON: for Sen.
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Sen.
@@ -11555,7 +11555,7 @@ WORDCON: denied for
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -11579,7 +11579,7 @@ WORDCON: the time
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: time
@@ -11659,7 +11659,7 @@ WORDCON: very '
 POS: JJ
 POSCON: RB ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -11699,7 +11699,7 @@ WORDCON: the .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -11891,7 +11891,7 @@ WORDCON: gas after
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -12179,7 +12179,7 @@ WORDCON: gas after
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -12315,7 +12315,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -12338,7 +12338,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -12387,7 +12387,7 @@ WORDCON: unpredictable for
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -12483,7 +12483,7 @@ WORDCON: state board
 POS: NN
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: board
@@ -12515,7 +12515,7 @@ WORDCON: in him
 POS: VBG
 POSCON: IN PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: him
@@ -12531,7 +12531,7 @@ WORDCON: him for
 POS: NN
 POSCON: PRP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -12555,7 +12555,7 @@ WORDCON: the time
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: time
@@ -12715,7 +12715,7 @@ WORDCON: after Kennedy
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Kennedy
@@ -12747,7 +12747,7 @@ WORDCON: the floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -12787,7 +12787,7 @@ WORDCON: book on
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -12827,7 +12827,7 @@ WORDCON: , .
 POS: CD
 POSCON: , .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -12859,7 +12859,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -12987,7 +12987,7 @@ WORDCON: the in
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -13075,7 +13075,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -13179,7 +13179,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -13307,7 +13307,7 @@ WORDCON: the in
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -13395,7 +13395,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -13699,7 +13699,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -13811,7 +13811,7 @@ WORDCON: a UNK
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -13819,7 +13819,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: VBN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -13859,7 +13859,7 @@ WORDCON: Washington station
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: station
@@ -13891,7 +13891,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -13931,7 +13931,7 @@ WORDCON: were in
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -14011,7 +14011,7 @@ WORDCON: of with
 POS: VBG
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -14067,7 +14067,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -14283,7 +14283,7 @@ WORDCON: a UNK
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -14291,7 +14291,7 @@ WORDCON: UNK to
 POS: NN
 POSCON: NN TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -14331,7 +14331,7 @@ WORDCON: to children
 POS: VBG
 POSCON: TO NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: children
@@ -14363,7 +14363,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -14387,7 +14387,7 @@ WORDCON: French writer
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: writer
@@ -14459,7 +14459,7 @@ WORDCON: his by
 POS: NN
 POSCON: PP$ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -14595,7 +14595,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -14651,7 +14651,7 @@ WORDCON: helped 12
 POS: VB
 POSCON: VBD CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 12
@@ -14771,7 +14771,7 @@ WORDCON: the ,
 POS: CD
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -14811,7 +14811,7 @@ WORDCON: of arrest
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: arrest
@@ -14835,7 +14835,7 @@ WORDCON: at .
 POS: CD
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -14915,7 +14915,7 @@ WORDCON: convicted of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -14962,7 +14962,7 @@ WORD: UNK
 WORDCON: King ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -15139,7 +15139,7 @@ WORDCON: a man
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: man
@@ -15243,7 +15243,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -15363,7 +15363,7 @@ WORDCON: the of
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -15387,7 +15387,7 @@ WORDCON: Spanish Francisco
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Francisco
@@ -15435,7 +15435,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -15499,7 +15499,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -15563,7 +15563,7 @@ WORDCON: by UNK
 POS: NN
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -15659,7 +15659,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -15723,7 +15723,7 @@ WORDCON: report that
 POS: VBG
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -15795,7 +15795,7 @@ WORDCON: in President
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -15851,7 +15851,7 @@ WORDCON: November .
 POS: CD
 POSCON: NNP .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -15907,7 +15907,7 @@ WORDCON: UNK us
 POS: VBZ
 POSCON: NNP PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: us
@@ -16051,7 +16051,7 @@ WORDCON: UNK UNK
 POS: VBZ
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -16139,7 +16139,7 @@ WORDCON: Chapman shot
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -16283,7 +16283,7 @@ WORDCON: key of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -16331,7 +16331,7 @@ WORDCON: penalty in
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -16419,7 +16419,7 @@ WORDCON: of reporter
 POS: VBG
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: reporter
@@ -16467,7 +16467,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -16507,7 +16507,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -16555,7 +16555,7 @@ WORDCON: was .
 POS: VBN
 POSCON: VBD .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -16619,7 +16619,7 @@ WORDCON: is a
 POS: VBG
 POSCON: VBZ DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -16635,7 +16635,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -16643,7 +16643,7 @@ WORDCON: UNK sentence
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: sentence
@@ -16675,7 +16675,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -16851,7 +16851,7 @@ WORDCON: be for
 POS: JJ
 POSCON: VB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -16867,7 +16867,7 @@ WORDCON: for until
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: until
@@ -16883,7 +16883,7 @@ WORDCON: until for
 POS: CD
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -17003,7 +17003,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -17147,7 +17147,7 @@ WORDCON: and wounded
 POS: RB
 POSCON: CC VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: wounded
@@ -17203,7 +17203,7 @@ WORDCON: the UNK
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -17211,7 +17211,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -17363,7 +17363,7 @@ WORDCON: the floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -17419,7 +17419,7 @@ WORDCON: book in
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -17531,7 +17531,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -17587,7 +17587,7 @@ WORDCON: include of
 POS: NN
 POSCON: VB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -17619,7 +17619,7 @@ WORDCON: 's rolling
 POS: NN
 POSCON: POS VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: rolling
@@ -17723,7 +17723,7 @@ WORDCON: UNK UNK
 POS: RB
 POSCON: NNP VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -17731,7 +17731,7 @@ WORDCON: UNK UNK
 POS: VBG
 POSCON: RB NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -17907,7 +17907,7 @@ WORDCON: a 's
 POS: NN
 POSCON: DT POS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 's
@@ -17923,7 +17923,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -17995,7 +17995,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -18043,7 +18043,7 @@ WORDCON: A group
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: group
@@ -18083,7 +18083,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -18219,7 +18219,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -18323,7 +18323,7 @@ WORDCON: had with
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -18371,7 +18371,7 @@ WORDCON: to Lincoln
 POS: NN
 POSCON: TO NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lincoln
@@ -18395,7 +18395,7 @@ WORDCON: in ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -18483,7 +18483,7 @@ WORDCON: , .
 POS: CD
 POSCON: , .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -18515,7 +18515,7 @@ WORDCON: a new
 POS: JJ
 POSCON: DT JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: new
@@ -18571,7 +18571,7 @@ WORDCON: UNK two
 POS: VBZ
 POSCON: NNP CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: two
@@ -18587,7 +18587,7 @@ WORDCON: two of
 POS: NNS
 POSCON: CD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -18603,7 +18603,7 @@ WORDCON: of violent
 POS: VBG
 POSCON: IN JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: violent
@@ -18619,7 +18619,7 @@ WORDCON: violent in
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -18651,7 +18651,7 @@ WORDCON: of for
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -18675,7 +18675,7 @@ WORDCON: the of
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -18875,7 +18875,7 @@ WORDCON: of in
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -18907,7 +18907,7 @@ WORDCON: UNK of
 POS: NNS
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -18931,7 +18931,7 @@ WORDCON: U.S. John
 POS: NNS
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: John
@@ -19051,7 +19051,7 @@ WORDCON: while a
 POS: VBG
 POSCON: IN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -19235,7 +19235,7 @@ WORDCON: who out
 POS: VBD
 POSCON: WP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: out
@@ -19395,7 +19395,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -19467,7 +19467,7 @@ WORDCON: , a
 POS: VBG
 POSCON: , DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -19483,7 +19483,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -19491,7 +19491,7 @@ WORDCON: UNK sentence
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: sentence
@@ -19570,7 +19570,7 @@ WORD: UNK
 WORDCON: King ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -19611,7 +19611,7 @@ WORDCON: for from
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -19683,7 +19683,7 @@ WORDCON: In Johnny
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Johnny
@@ -19762,7 +19762,7 @@ WORD: UNK
 WORDCON: Michael UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -19819,7 +19819,7 @@ WORDCON: let UNK
 POS: NNS
 POSCON: VB VB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -19827,7 +19827,7 @@ WORDCON: UNK his
 POS: VB
 POSCON: NNS PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -19955,7 +19955,7 @@ WORDCON: the ,
 POS: JJ
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -19971,7 +19971,7 @@ WORDCON: , UNK
 POS: RB
 POSCON: , JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -19979,7 +19979,7 @@ WORDCON: UNK UNK
 POS: JJ
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -19987,7 +19987,7 @@ WORDCON: UNK and
 POS: NN
 POSCON: JJ CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -20059,7 +20059,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -20171,7 +20171,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -20234,7 +20234,7 @@ WORD: UNK
 WORDCON: King OMEGA
 POS: NNP
 POSCON: NNP OMEGAPOS
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -20251,7 +20251,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -20339,7 +20339,7 @@ WORDCON: of Lee
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lee
@@ -20387,7 +20387,7 @@ WORDCON: the UNK
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -20395,7 +20395,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -20435,7 +20435,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -20523,7 +20523,7 @@ WORDCON: of Lee
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lee
@@ -20571,7 +20571,7 @@ WORDCON: the UNK
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -20579,7 +20579,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -20627,7 +20627,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -20811,7 +20811,7 @@ WORDCON: of that
 POS: NNS
 POSCON: IN WDT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -20899,7 +20899,7 @@ WORDCON: the anniversary
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: anniversary
@@ -20971,7 +20971,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -21123,7 +21123,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -21147,7 +21147,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT VB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -21155,7 +21155,7 @@ WORDCON: UNK Jesse
 POS: VB
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Jesse
@@ -21363,7 +21363,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -21427,7 +21427,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -21483,7 +21483,7 @@ WORDCON: and wounded
 POS: RB
 POSCON: CC VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: wounded
@@ -21539,7 +21539,7 @@ WORDCON: while the
 POS: VBG
 POSCON: IN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -21683,7 +21683,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -21739,7 +21739,7 @@ WORDCON: of U.S.
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: U.S.
@@ -21883,7 +21883,7 @@ WORDCON: , UNK
 POS: RB
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -21891,7 +21891,7 @@ WORDCON: UNK him
 POS: NN
 POSCON: RB PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: him
@@ -21971,7 +21971,7 @@ WORDCON: was OMEGA
 POS: NN
 POSCON: VBD OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: But
@@ -22075,7 +22075,7 @@ WORDCON: , UNK
 POS: RB
 POSCON: , VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -22083,7 +22083,7 @@ WORDCON: UNK him
 POS: VBG
 POSCON: RB PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: him
@@ -22179,7 +22179,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -22363,7 +22363,7 @@ WORDCON: the ,
 POS: NN
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -22458,7 +22458,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -22539,7 +22539,7 @@ WORDCON: is a
 POS: VBG
 POSCON: VBZ DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -22635,7 +22635,7 @@ WORDCON: California election
 POS: JJ
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: election
@@ -22659,7 +22659,7 @@ WORDCON: night of
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -22755,7 +22755,7 @@ WORDCON: in OMEGA
 POS: NN
 POSCON: IN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Grant
@@ -22770,7 +22770,7 @@ WORD: UNK
 WORDCON: Grant UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -22819,7 +22819,7 @@ WORDCON: who Kennedy
 POS: VBD
 POSCON: WP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Kennedy
@@ -22835,7 +22835,7 @@ WORDCON: Kennedy UNK
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -22850,7 +22850,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -22907,7 +22907,7 @@ WORDCON: age OMEGA
 POS: NN
 POSCON: NN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: In
@@ -22979,7 +22979,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -23035,7 +23035,7 @@ WORDCON: was .
 POS: VBN
 POSCON: VBD .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -23083,7 +23083,7 @@ WORDCON: most to
 POS: JJ
 POSCON: RBS TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -23163,7 +23163,7 @@ WORDCON: , in
 POS: VBN
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -23179,7 +23179,7 @@ WORDCON: in for
 POS: CD
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -23203,7 +23203,7 @@ WORDCON: the death
 POS: VBG
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: death
@@ -23299,7 +23299,7 @@ WORDCON: A struck
 POS: NN
 POSCON: DT VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: struck
@@ -23339,7 +23339,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -23355,7 +23355,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -23427,7 +23427,7 @@ WORDCON: for ,
 POS: NN
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -23443,7 +23443,7 @@ WORDCON: , OMEGA
 POS: NN
 POSCON: , OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: In
@@ -23459,7 +23459,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -23499,7 +23499,7 @@ WORDCON: were in
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -23579,7 +23579,7 @@ WORDCON: of with
 POS: VBG
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -23635,7 +23635,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -23682,7 +23682,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -23819,7 +23819,7 @@ WORDCON: denied Tuesday
 POS: NN
 POSCON: VBN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Tuesday
@@ -23851,7 +23851,7 @@ WORDCON: the time
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: time
@@ -23923,7 +23923,7 @@ WORDCON: state board
 POS: NN
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: board
@@ -23971,7 +23971,7 @@ WORDCON: from UNK
 POS: NN
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -23986,7 +23986,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -24147,7 +24147,7 @@ WORDCON: presidential when
 POS: NN
 POSCON: JJ WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: when
@@ -24291,7 +24291,7 @@ WORDCON: court out
 POS: VBD
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: out
@@ -24387,7 +24387,7 @@ WORDCON: of Phoenix
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Phoenix
@@ -24475,7 +24475,7 @@ WORDCON: a vote
 POS: CD
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: vote
@@ -24619,7 +24619,7 @@ WORDCON: of newspaper
 POS: VBG
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: newspaper
@@ -24699,7 +24699,7 @@ WORDCON: 's have
 POS: NNS
 POSCON: POS VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: have
@@ -24787,7 +24787,7 @@ WORDCON: Kennedy Lee
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lee
@@ -24883,7 +24883,7 @@ WORDCON: UNK shot
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -25075,7 +25075,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -25259,7 +25259,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -25379,7 +25379,7 @@ WORDCON: UNK shot
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -25571,7 +25571,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -25715,7 +25715,7 @@ WORDCON: , in
 POS: CD
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -25811,7 +25811,7 @@ WORDCON: convicted of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -25858,7 +25858,7 @@ WORD: UNK
 WORDCON: King ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -26035,7 +26035,7 @@ WORDCON: a man
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: man
@@ -26171,7 +26171,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -26395,7 +26395,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -26459,7 +26459,7 @@ WORDCON: been from
 POS: VBN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -26475,7 +26475,7 @@ WORDCON: from .
 POS: NN
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -26723,7 +26723,7 @@ WORDCON: the for
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -26739,7 +26739,7 @@ WORDCON: for in
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -26779,7 +26779,7 @@ WORDCON: gun and
 POS: NN
 POSCON: NN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -26819,7 +26819,7 @@ WORDCON: to UNK
 POS: VB
 POSCON: TO NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -26875,7 +26875,7 @@ WORDCON: was OMEGA
 POS: NN
 POSCON: VBD OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -26955,7 +26955,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -26987,7 +26987,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -27051,7 +27051,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -27195,7 +27195,7 @@ WORDCON: and wounded
 POS: RB
 POSCON: CC VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: wounded
@@ -27251,7 +27251,7 @@ WORDCON: the UNK
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -27259,7 +27259,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -27403,7 +27403,7 @@ WORDCON: the in
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -27419,7 +27419,7 @@ WORDCON: in of
 POS: CD
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -27491,7 +27491,7 @@ WORDCON: UNK UNK
 POS: JJ
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -27547,7 +27547,7 @@ WORDCON: the that
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -27563,7 +27563,7 @@ WORDCON: that World
 POS: VBD
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: World
@@ -27699,7 +27699,7 @@ WORDCON: 's UNK
 POS: JJ
 POSCON: POS JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -27707,7 +27707,7 @@ WORDCON: UNK UNK
 POS: JJ
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -27715,7 +27715,7 @@ WORDCON: UNK .
 POS: NN
 POSCON: JJ .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -27795,7 +27795,7 @@ WORDCON: day President
 POS: VBG
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -27939,7 +27939,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -28027,7 +28027,7 @@ WORDCON: he years
 POS: VBD
 POSCON: PRP NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: years
@@ -28059,7 +28059,7 @@ WORDCON: mental before
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: before
@@ -28227,7 +28227,7 @@ WORDCON: UNK book
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: book
@@ -28267,7 +28267,7 @@ WORDCON: UNK .
 POS: NN
 POSCON: NNP .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -28451,7 +28451,7 @@ WORDCON: 's .
 POS: JJ
 POSCON: VBZ .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -28515,7 +28515,7 @@ WORDCON: he great
 POS: VBZ
 POSCON: PRP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: great
@@ -28531,7 +28531,7 @@ WORDCON: great for
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -28595,7 +28595,7 @@ WORDCON: the doesn
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: doesn
@@ -28643,7 +28643,7 @@ WORDCON: an UNK
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -28651,7 +28651,7 @@ WORDCON: UNK OMEGA
 POS: NN
 POSCON: NN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Before
@@ -28787,7 +28787,7 @@ WORDCON: a person
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: person
@@ -28859,7 +28859,7 @@ WORDCON: his UNK
 POS: NN
 POSCON: PP$ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -28867,7 +28867,7 @@ WORDCON: UNK at
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -28899,7 +28899,7 @@ WORDCON: state ,
 POS: NN
 POSCON: NN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -28939,7 +28939,7 @@ WORDCON: is 20
 POS: VBG
 POSCON: VBZ CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 20
@@ -28971,7 +28971,7 @@ WORDCON: to OMEGA
 POS: NN
 POSCON: TO OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -29275,7 +29275,7 @@ WORDCON: an UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -29283,7 +29283,7 @@ WORDCON: UNK who
 POS: NN
 POSCON: JJ WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -29307,7 +29307,7 @@ WORDCON: had his
 POS: VBN
 POSCON: VBD PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -29323,7 +29323,7 @@ WORDCON: his only
 POS: NN
 POSCON: PP$ RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: only
@@ -29699,7 +29699,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -29707,7 +29707,7 @@ WORDCON: UNK to
 POS: NN
 POSCON: JJ TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -29763,7 +29763,7 @@ WORDCON: his only
 POS: NN
 POSCON: PP$ RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: only
@@ -29931,7 +29931,7 @@ WORDCON: a who
 POS: NN
 POSCON: DT WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -29963,7 +29963,7 @@ WORDCON: the 's
 POS: NN
 POSCON: DT POS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 's
@@ -29979,7 +29979,7 @@ WORDCON: 's just
 POS: NN
 POSCON: POS RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: just
@@ -30083,7 +30083,7 @@ WORDCON: UNK a
 POS: VBD
 POSCON: NNP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -30099,7 +30099,7 @@ WORDCON: a courtroom
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: courtroom
@@ -30219,7 +30219,7 @@ WORDCON: after outside
 POS: NN
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: outside
@@ -30300,7 +30300,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: UNK border
@@ -30347,7 +30347,7 @@ WORDCON: , miles
 POS: CD
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: miles
@@ -30419,7 +30419,7 @@ WORDCON: The jury
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: jury
@@ -30459,7 +30459,7 @@ WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -30531,7 +30531,7 @@ WORDCON: , and
 POS: NN
 POSCON: , CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -30683,7 +30683,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -30707,7 +30707,7 @@ WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -30779,7 +30779,7 @@ WORDCON: shotgun of
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -30819,7 +30819,7 @@ WORDCON: an known
 POS: RB
 POSCON: DT VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: known
@@ -30835,7 +30835,7 @@ WORDCON: known for
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -30859,7 +30859,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -30891,7 +30891,7 @@ WORDCON: UNK from
 POS: NN
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -30907,7 +30907,7 @@ WORDCON: from by
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -30923,7 +30923,7 @@ WORDCON: by and
 POS: NNS
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -30939,7 +30939,7 @@ WORDCON: and .
 POS: NNS
 POSCON: CC .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -30995,7 +30995,7 @@ WORDCON: , by
 POS: VBN
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -31075,7 +31075,7 @@ WORDCON: the Red
 POS: NN
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Red
@@ -31099,7 +31099,7 @@ WORDCON: Sun central
 POS: NN
 POSCON: NNP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: central
@@ -31155,7 +31155,7 @@ WORDCON: living since
 POS: RB
 POSCON: VBG IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: since
@@ -31179,7 +31179,7 @@ WORDCON: his from
 POS: NN
 POSCON: PP$ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -31267,7 +31267,7 @@ WORDCON: held of
 POS: VBN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -31283,7 +31283,7 @@ WORDCON: of the
 POS: VBG
 POSCON: IN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -31299,7 +31299,7 @@ WORDCON: the ,
 POS: NN
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -31436,7 +31436,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: UNK Security
@@ -31507,7 +31507,7 @@ WORDCON: has rumors
 POS: VBN
 POSCON: VBZ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: rumors
@@ -31563,7 +31563,7 @@ WORDCON: the UNK
 POS: VBZ
 POSCON: DT VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -31571,7 +31571,7 @@ WORDCON: UNK to
 POS: VBG
 POSCON: VBZ TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -31939,7 +31939,7 @@ WORDCON: him official
 POS: JJ
 POSCON: PRP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: official
@@ -32059,7 +32059,7 @@ WORDCON: was UNK
 POS: RB
 POSCON: VBD VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -32067,7 +32067,7 @@ WORDCON: UNK as
 POS: VBN
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: as
@@ -32195,7 +32195,7 @@ WORDCON: 28 that
 POS: CD
 POSCON: CD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -32243,7 +32243,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -32259,7 +32259,7 @@ WORDCON: UNK student
 POS: JJ
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: student
@@ -32563,7 +32563,7 @@ WORDCON: after investigations
 POS: NN
 POSCON: IN NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: investigations
@@ -32611,7 +32611,7 @@ WORDCON: a .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -32659,7 +32659,7 @@ WORDCON: be the
 POS: VBG
 POSCON: VB DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -32691,7 +32691,7 @@ WORDCON: UNK on
 POS: VBD
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -32763,7 +32763,7 @@ WORDCON: the that
 POS: NN
 POSCON: DT WDT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -32979,7 +32979,7 @@ WORDCON: of Martin
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Martin
@@ -33043,7 +33043,7 @@ WORDCON: hearing on
 POS: VBN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -33067,7 +33067,7 @@ WORDCON: the anniversary
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: anniversary
@@ -33099,7 +33099,7 @@ WORDCON: the .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -33155,7 +33155,7 @@ WORDCON: central ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -33283,7 +33283,7 @@ WORDCON: been up
 POS: VBN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: up
@@ -33315,7 +33315,7 @@ WORDCON: most UNK
 POS: JJ
 POSCON: JJS NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -33323,7 +33323,7 @@ WORDCON: UNK since
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: since
@@ -33371,7 +33371,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -33443,7 +33443,7 @@ WORDCON: committee by
 POS: VBN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -33563,7 +33563,7 @@ WORDCON: second probably
 POS: NN
 POSCON: JJ RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: probably
@@ -33619,7 +33619,7 @@ WORDCON: and .
 POS: VBD
 POSCON: CC .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -33683,7 +33683,7 @@ WORDCON: organising to
 POS: NNS
 POSCON: VBG TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -33699,7 +33699,7 @@ WORDCON: to down
 POS: VB
 POSCON: TO RP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: down
@@ -33747,7 +33747,7 @@ WORDCON: young UNK
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -33819,7 +33819,7 @@ WORDCON: in UNK
 POS: CD
 POSCON: IN :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -33827,7 +33827,7 @@ WORDCON: UNK one
 POS: :
 POSCON: CD CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: one
@@ -34026,7 +34026,7 @@ WORD: UNK
 WORDCON: King ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -34083,7 +34083,7 @@ WORDCON: by James
 POS: NN
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: James
@@ -34187,7 +34187,7 @@ WORDCON: UNK UNK
 POS: VBD
 POSCON: NNPS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -34211,7 +34211,7 @@ WORDCON: 's exit
 POS: NN
 POSCON: POS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: exit
@@ -34251,7 +34251,7 @@ WORDCON: televised of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -34307,7 +34307,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -34411,7 +34411,7 @@ WORDCON: in .
 POS: CD
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -34443,7 +34443,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -34563,7 +34563,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -34586,7 +34586,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -34619,7 +34619,7 @@ WORDCON: was to
 POS: JJ
 POSCON: VBD TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -34635,7 +34635,7 @@ WORDCON: to trial
 POS: VB
 POSCON: TO NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: trial
@@ -34691,7 +34691,7 @@ WORDCON: the after
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -34747,7 +34747,7 @@ WORDCON: a and
 POS: VB
 POSCON: DT CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -34763,7 +34763,7 @@ WORDCON: and who
 POS: NN
 POSCON: CC WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -34947,7 +34947,7 @@ WORDCON: had shot
 POS: RB
 POSCON: VBD VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -35107,7 +35107,7 @@ WORDCON: UNK into
 POS: VBD
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: into
@@ -35275,7 +35275,7 @@ WORDCON: , Lincoln
 POS: VBG
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lincoln
@@ -35411,7 +35411,7 @@ WORDCON: UNK UNK
 POS: VBD
 POSCON: NNP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -35419,7 +35419,7 @@ WORDCON: UNK UNK
 POS: JJ
 POSCON: VBD NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -35427,7 +35427,7 @@ WORDCON: UNK when
 POS: NNS
 POSCON: JJ WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: when
@@ -35507,7 +35507,7 @@ WORDCON: after Lincoln
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lincoln
@@ -35619,7 +35619,7 @@ WORDCON: PHI This
 POS: NN
 POSCON: PHIPOS DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: This
@@ -35707,7 +35707,7 @@ WORDCON: , of
 POS: NN
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -35747,7 +35747,7 @@ WORDCON: was by
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -35819,7 +35819,7 @@ WORDCON: , .
 POS: CD
 POSCON: , .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -35842,7 +35842,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -36003,7 +36003,7 @@ WORDCON: the time
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: time
@@ -36035,7 +36035,7 @@ WORDCON: a board
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: board
@@ -36059,7 +36059,7 @@ WORDCON: that a
 POS: VBD
 POSCON: WDT DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -36091,7 +36091,7 @@ WORDCON: Eastern UNK
 POS: NN
 POSCON: JJ VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -36099,7 +36099,7 @@ WORDCON: UNK for
 POS: VBG
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -36195,7 +36195,7 @@ WORDCON: of Street
 POS: JJ
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Street
@@ -36339,7 +36339,7 @@ WORDCON: at at
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -36651,7 +36651,7 @@ WORDCON: of Phoenix
 POS: VBG
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Phoenix
@@ -36739,7 +36739,7 @@ WORDCON: 's have
 POS: NNS
 POSCON: POS VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: have
@@ -36827,7 +36827,7 @@ WORDCON: Kennedy Lee
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Lee
@@ -36931,7 +36931,7 @@ WORDCON: the is
 POS: NN
 POSCON: DT VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: is
@@ -36995,7 +36995,7 @@ WORDCON: admitted UNK
 POS: VBG
 POSCON: VBN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -37003,7 +37003,7 @@ WORDCON: UNK Robert
 POS: NN
 POSCON: VBG NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Robert
@@ -37058,7 +37058,7 @@ WORD: UNK
 WORDCON: UNK ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -37083,7 +37083,7 @@ WORDCON: a Los
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Los
@@ -37115,7 +37115,7 @@ WORDCON: truck whose
 POS: NN
 POSCON: NN WP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: whose
@@ -37139,7 +37139,7 @@ WORDCON: life around
 POS: VBD
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: around
@@ -37195,7 +37195,7 @@ WORDCON: five children
 POS: VBN
 POSCON: CD NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: children
@@ -37227,7 +37227,7 @@ WORDCON: his ,
 POS: NNS
 POSCON: PP$ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -37283,7 +37283,7 @@ WORDCON: of murder
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: murder
@@ -37355,7 +37355,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -37475,7 +37475,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -37531,7 +37531,7 @@ WORDCON: UNK in
 POS: VBG
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -37603,7 +37603,7 @@ WORDCON: PHI UNK
 POS: NN
 POSCON: PHIPOS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -37667,7 +37667,7 @@ WORDCON: warm toward
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: toward
@@ -37755,7 +37755,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -37819,7 +37819,7 @@ WORDCON: best-known came
 POS: NN
 POSCON: JJ VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: came
@@ -37907,7 +37907,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -38011,7 +38011,7 @@ WORDCON: a during
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: during
@@ -38051,7 +38051,7 @@ WORDCON: 1968 and
 POS: NN
 POSCON: CD CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -38083,7 +38083,7 @@ WORDCON: be outside
 POS: VBN
 POSCON: VB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: outside
@@ -38107,7 +38107,7 @@ WORDCON: the used
 POS: NNS
 POSCON: DT VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: used
@@ -38131,7 +38131,7 @@ WORDCON: for UNK
 POS: NN
 POSCON: IN JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -38139,7 +38139,7 @@ WORDCON: UNK UNK
 POS: JJ
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -38147,7 +38147,7 @@ WORDCON: UNK murderers
 POS: NN
 POSCON: JJ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: murderers
@@ -38243,7 +38243,7 @@ WORDCON: is a
 POS: VBG
 POSCON: VBZ DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -38371,7 +38371,7 @@ WORDCON: UNK shot
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -38435,7 +38435,7 @@ WORDCON: tower Charles
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Charles
@@ -38467,7 +38467,7 @@ WORDCON: in .
 POS: CD
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -38555,7 +38555,7 @@ WORDCON: scene into
 POS: VBD
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: into
@@ -38579,7 +38579,7 @@ WORDCON: the of
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -38683,7 +38683,7 @@ WORDCON: in :
 POS: CD
 POSCON: IN :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: :
@@ -38715,7 +38715,7 @@ WORDCON: UNK his
 POS: VBG
 POSCON: NNP PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -38731,7 +38731,7 @@ WORDCON: his UNK
 POS: JJ
 POSCON: PP$ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -38907,7 +38907,7 @@ WORDCON: days OMEGA
 POS: NN
 POSCON: NNS OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -38987,7 +38987,7 @@ WORDCON: scene into
 POS: VBD
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: into
@@ -39011,7 +39011,7 @@ WORDCON: the of
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -39115,7 +39115,7 @@ WORDCON: in :
 POS: CD
 POSCON: IN :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: :
@@ -39147,7 +39147,7 @@ WORDCON: UNK his
 POS: VBG
 POSCON: NNP PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -39163,7 +39163,7 @@ WORDCON: his UNK
 POS: JJ
 POSCON: PP$ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -39339,7 +39339,7 @@ WORDCON: days OMEGA
 POS: NN
 POSCON: NNS OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: A
@@ -39363,7 +39363,7 @@ WORDCON: UNK judge
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: judge
@@ -39507,7 +39507,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -39691,7 +39691,7 @@ WORDCON: UNK a
 POS: VBD
 POSCON: NNP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -39707,7 +39707,7 @@ WORDCON: a courtroom
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: courtroom
@@ -39827,7 +39827,7 @@ WORDCON: after outside
 POS: NN
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: outside
@@ -39955,7 +39955,7 @@ WORDCON: , miles
 POS: CD
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: miles
@@ -40195,7 +40195,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -40371,7 +40371,7 @@ WORDCON: location the
 POS: :
 POSCON: NN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -40387,7 +40387,7 @@ WORDCON: the floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -40523,7 +40523,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -40571,7 +40571,7 @@ WORDCON: Another shows
 POS: NN
 POSCON: DT VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shows
@@ -40595,7 +40595,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -40603,7 +40603,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -40626,7 +40626,7 @@ WORD: UNK
 WORDCON: UNK Johnson
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -40651,7 +40651,7 @@ WORDCON: being in
 POS: VBN
 POSCON: VBG IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -40723,7 +40723,7 @@ WORDCON: television of
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -40755,7 +40755,7 @@ WORDCON: UNK UNK
 POS: VBG
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -40803,7 +40803,7 @@ WORDCON: could whether
 POS: VB
 POSCON: MD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: whether
@@ -40835,7 +40835,7 @@ WORDCON: was with
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -40859,7 +40859,7 @@ WORDCON: an disease
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: disease
@@ -40891,7 +40891,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -40931,7 +40931,7 @@ WORDCON: experts from
 POS: VBP
 POSCON: NNS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -40947,7 +40947,7 @@ WORDCON: from evidence
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: evidence
@@ -41187,7 +41187,7 @@ WORDCON: , ;
 POS: CD
 POSCON: , :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -41291,7 +41291,7 @@ WORDCON: will UNK
 POS: VB
 POSCON: MD NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -41395,7 +41395,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -41403,7 +41403,7 @@ WORDCON: UNK 10
 POS: NN
 POSCON: JJ CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 10
@@ -41507,7 +41507,7 @@ WORDCON: , OMEGA
 POS: NN
 POSCON: , OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: The
@@ -41795,7 +41795,7 @@ WORDCON: CIA and
 POS: NN
 POSCON: NNP CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -41883,7 +41883,7 @@ WORDCON: presidential as
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: as
@@ -41907,7 +41907,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -41915,7 +41915,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -41979,7 +41979,7 @@ WORDCON: the ;
 POS: NN
 POSCON: DT :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -42051,7 +42051,7 @@ WORDCON: UNK shot
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -42091,7 +42091,7 @@ WORDCON: now county
 POS: VBZ
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: county
@@ -42107,7 +42107,7 @@ WORDCON: county and
 POS: NNS
 POSCON: NN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -42147,7 +42147,7 @@ WORDCON: the floor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: floor
@@ -42179,7 +42179,7 @@ WORDCON: a with
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -42195,7 +42195,7 @@ WORDCON: with about
 POS: NNS
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: about
@@ -42219,7 +42219,7 @@ WORDCON: the ;
 POS: NN
 POSCON: DT :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -42347,7 +42347,7 @@ WORDCON: 's UNK
 POS: JJ
 POSCON: POS NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -42355,7 +42355,7 @@ WORDCON: UNK included
 POS: NNS
 POSCON: JJ VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: included
@@ -42419,7 +42419,7 @@ WORDCON: convicted of
 POS: NN
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -42474,7 +42474,7 @@ WORD: UNK
 WORDCON: King ;
 POS: NNP
 POSCON: NNP :
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -42563,7 +42563,7 @@ WORDCON: who out
 POS: VBD
 POSCON: WP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: out
@@ -42723,7 +42723,7 @@ WORDCON: and Kennedy
 POS: VBN
 POSCON: CC NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Kennedy
@@ -42747,7 +42747,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -42787,7 +42787,7 @@ WORDCON: PHI We
 POS: NN
 POSCON: PHIPOS PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: We
@@ -42819,7 +42819,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -42843,7 +42843,7 @@ WORDCON: different about
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: about
@@ -42875,7 +42875,7 @@ WORDCON: UNK killed
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: killed
@@ -42955,7 +42955,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -42995,7 +42995,7 @@ WORDCON: very life
 POS: JJ
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: life
@@ -43019,7 +43019,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -43219,7 +43219,7 @@ WORDCON: the outside
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: outside
@@ -43243,7 +43243,7 @@ WORDCON: UNK at
 POS: CD
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -43267,7 +43267,7 @@ WORDCON: the .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -43379,7 +43379,7 @@ WORDCON: British minister
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: minister
@@ -43459,7 +43459,7 @@ WORDCON: U.N. ,
 POS: NN
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -43563,7 +43563,7 @@ WORDCON: 50 Kenneth
 POS: NN
 POSCON: CD NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Kenneth
@@ -43699,7 +43699,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -43763,7 +43763,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -43819,7 +43819,7 @@ WORDCON: the with
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -43875,7 +43875,7 @@ WORDCON: was shot
 POS: RB
 POSCON: VBD VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -43955,7 +43955,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -44075,7 +44075,7 @@ WORDCON: the with
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -44131,7 +44131,7 @@ WORDCON: was shot
 POS: RB
 POSCON: VBD VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: shot
@@ -44307,7 +44307,7 @@ WORDCON: a UNK
 POS: CD
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -44315,7 +44315,7 @@ WORDCON: UNK ;
 POS: NN
 POSCON: CD :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -44387,7 +44387,7 @@ WORDCON: poor and
 POS: NN
 POSCON: JJ CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -44563,7 +44563,7 @@ WORDCON: an OMEGA
 POS: NN
 POSCON: DT OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -44635,7 +44635,7 @@ WORDCON: his :
 POS: NN
 POSCON: PP$ :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: :
@@ -44779,7 +44779,7 @@ WORDCON: official in
 POS: VBP
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -44811,7 +44811,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -44875,7 +44875,7 @@ WORDCON: in ;
 POS: NNS
 POSCON: IN :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -44907,7 +44907,7 @@ WORDCON: the UNK
 POS: NNS
 POSCON: DT :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -44915,7 +44915,7 @@ WORDCON: UNK UNK
 POS: :
 POSCON: NNS VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -44923,7 +44923,7 @@ WORDCON: UNK ,
 POS: VBN
 POSCON: : ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -44955,7 +44955,7 @@ WORDCON: or UNK
 POS: JJ
 POSCON: CC :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -44963,7 +44963,7 @@ WORDCON: UNK are
 POS: :
 POSCON: JJ VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: are
@@ -45227,7 +45227,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -45243,7 +45243,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -45611,7 +45611,7 @@ WORDCON: of UNK
 POS: NN
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -45619,7 +45619,7 @@ WORDCON: UNK ;
 POS: NN
 POSCON: NN :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -45675,7 +45675,7 @@ WORDCON: deliberately evidence
 POS: VBZ
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: evidence
@@ -45915,7 +45915,7 @@ WORDCON: to Dr.
 POS: VB
 POSCON: TO NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Dr.
@@ -45955,7 +45955,7 @@ WORDCON: 's UNK
 POS: JJ
 POSCON: POS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -45963,7 +45963,7 @@ WORDCON: UNK on
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -46019,7 +46019,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -46131,7 +46131,7 @@ WORDCON: the ;
 POS: NN
 POSCON: DT :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -46155,7 +46155,7 @@ WORDCON: The million
 POS: NN
 POSCON: DT CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: million
@@ -46179,7 +46179,7 @@ WORDCON: , film
 POS: JJ
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: film
@@ -46219,7 +46219,7 @@ WORDCON: the UNK
 POS: NN
 POSCON: DT NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -46227,7 +46227,7 @@ WORDCON: UNK of
 POS: NNS
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -46403,7 +46403,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -46491,7 +46491,7 @@ WORDCON: a for
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -46587,7 +46587,7 @@ WORDCON: defense .
 POS: NNS
 POSCON: NN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -46651,7 +46651,7 @@ WORDCON: this is
 POS: NN
 POSCON: DT VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: is
@@ -46683,7 +46683,7 @@ WORDCON: by evidence
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: evidence
@@ -46731,7 +46731,7 @@ WORDCON: the that
 POS: NN
 POSCON: DT WDT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -46795,7 +46795,7 @@ WORDCON: the that
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -46835,7 +46835,7 @@ WORDCON: his and
 POS: NN
 POSCON: PP$ CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -46859,7 +46859,7 @@ WORDCON: struck Gov.
 POS: JJ
 POSCON: VBD NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Gov.
@@ -46947,7 +46947,7 @@ WORDCON: 's found
 POS: NN
 POSCON: POS VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: found
@@ -47051,7 +47051,7 @@ WORDCON: been UNK
 POS: VBG
 POSCON: VBN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -47211,7 +47211,7 @@ WORDCON: UNK who
 POS: NN
 POSCON: NNP WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -47307,7 +47307,7 @@ WORDCON: Kennedy and
 POS: NN
 POSCON: NNP CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -47387,7 +47387,7 @@ WORDCON: to the
 POS: VBG
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -47403,7 +47403,7 @@ WORDCON: the about
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: about
@@ -47427,7 +47427,7 @@ WORDCON: the ;
 POS: NN
 POSCON: DT :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -47467,7 +47467,7 @@ WORDCON: of UNK
 POS: NN
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -47483,7 +47483,7 @@ WORDCON: UNK and
 POS: NN
 POSCON: NNP CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -47499,7 +47499,7 @@ WORDCON: and The
 POS: NN
 POSCON: CC DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: The
@@ -47547,7 +47547,7 @@ WORDCON: Kennedy never
 POS: NN
 POSCON: NNP RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: never
@@ -47563,7 +47563,7 @@ WORDCON: never about
 POS: VB
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: about
@@ -47587,7 +47587,7 @@ WORDCON: these ,
 POS: NNS
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -47635,7 +47635,7 @@ WORDCON: ever about
 POS: VBP
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: about
@@ -47683,7 +47683,7 @@ WORDCON: other body
 POS: JJ
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: body
@@ -47723,7 +47723,7 @@ WORDCON: that UNK
 POS: RB
 POSCON: WDT VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -47731,7 +47731,7 @@ WORDCON: UNK beyond
 POS: VBZ
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: beyond
@@ -47755,7 +47755,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -47763,7 +47763,7 @@ WORDCON: UNK that
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -47803,7 +47803,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -47811,7 +47811,7 @@ WORDCON: UNK who
 POS: NN
 POSCON: JJ WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -47915,7 +47915,7 @@ WORDCON: no by
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -48051,7 +48051,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -48075,7 +48075,7 @@ WORDCON: UNK in
 POS: NN
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -48171,7 +48171,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -48275,7 +48275,7 @@ WORDCON: latest has
 POS: NN
 POSCON: JJS VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: has
@@ -48379,7 +48379,7 @@ WORDCON: has to
 POS: VBN
 POSCON: VBZ TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -48787,7 +48787,7 @@ WORDCON: the ;
 POS: NN
 POSCON: DT :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -48867,7 +48867,7 @@ WORDCON: 's Charles
 POS: NN
 POSCON: POS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Charles
@@ -48923,7 +48923,7 @@ WORDCON: -RRB- up
 POS: NN
 POSCON: -RRB- IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: up
@@ -48987,7 +48987,7 @@ WORDCON: the where
 POS: NN
 POSCON: DT WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: where
@@ -49027,7 +49027,7 @@ WORDCON: be ,
 POS: VBN
 POSCON: VB ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -49083,7 +49083,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -49099,7 +49099,7 @@ WORDCON: UNK about
 POS: NN
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: about
@@ -49115,7 +49115,7 @@ WORDCON: about going
 POS: NN
 POSCON: IN VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: going
@@ -49163,7 +49163,7 @@ WORDCON: . OMEGA
 POS: NN
 POSCON: . OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -49211,7 +49211,7 @@ WORDCON: 's John
 POS: NN
 POSCON: POS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: John
@@ -49323,7 +49323,7 @@ WORDCON: burning where
 POS: NN
 POSCON: VBG WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: where
@@ -49355,7 +49355,7 @@ WORDCON: will himself
 POS: VB
 POSCON: MD PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: himself
@@ -49411,7 +49411,7 @@ WORDCON: 's UNK
 POS: NN
 POSCON: POS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -49435,7 +49435,7 @@ WORDCON: UNK UNK
 POS: VBZ
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -49443,7 +49443,7 @@ WORDCON: UNK The
 POS: NN
 POSCON: VBZ DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: The
@@ -49483,7 +49483,7 @@ WORDCON: UNK from
 POS: NN
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -49603,7 +49603,7 @@ WORDCON: , into
 POS: VBZ
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: into
@@ -49643,7 +49643,7 @@ WORDCON: , a
 POS: VBG
 POSCON: , DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -49659,7 +49659,7 @@ WORDCON: a UNK
 POS: NN
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -49699,7 +49699,7 @@ WORDCON: their and
 POS: NN
 POSCON: PP$ CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -49715,7 +49715,7 @@ WORDCON: and his
 POS: VB
 POSCON: CC PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -49875,7 +49875,7 @@ WORDCON: editorial a
 POS: VBD
 POSCON: NN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -49907,7 +49907,7 @@ WORDCON: of of
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -49931,7 +49931,7 @@ WORDCON: the evidence
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: evidence
@@ -49987,7 +49987,7 @@ WORDCON: Report that
 POS: VBG
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -50043,7 +50043,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -50051,7 +50051,7 @@ WORDCON: UNK who
 POS: NN
 POSCON: JJ WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -50219,7 +50219,7 @@ WORDCON: was our
 POS: NN
 POSCON: VBD PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: our
@@ -50243,7 +50243,7 @@ WORDCON: only ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -50291,7 +50291,7 @@ WORDCON: that :
 POS: NN
 POSCON: IN :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: :
@@ -50347,7 +50347,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -50355,7 +50355,7 @@ WORDCON: UNK who
 POS: NN
 POSCON: JJ WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -50443,7 +50443,7 @@ WORDCON: that Friday
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Friday
@@ -50515,7 +50515,7 @@ WORDCON: , OMEGA
 POS: CD
 POSCON: , OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -50555,7 +50555,7 @@ WORDCON: an disadvantage
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: disadvantage
@@ -50763,7 +50763,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -50891,7 +50891,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -50907,7 +50907,7 @@ WORDCON: , Jimmy
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Jimmy
@@ -51003,7 +51003,7 @@ WORDCON: had his
 POS: VBN
 POSCON: VBD PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -51155,7 +51155,7 @@ WORDCON: had to
 POS: VBN
 POSCON: VBD TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -51315,7 +51315,7 @@ WORDCON: UNK UNK
 POS: NNS
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -51323,7 +51323,7 @@ WORDCON: UNK on
 POS: VBD
 POSCON: NNS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -51483,7 +51483,7 @@ WORDCON: former secretary
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: secretary
@@ -51611,7 +51611,7 @@ WORDCON: the showed
 POS: NN
 POSCON: DT VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: showed
@@ -51651,7 +51651,7 @@ WORDCON: who by
 POS: VBD
 POSCON: WP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -51803,7 +51803,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -52099,7 +52099,7 @@ WORDCON: Jackson won
 POS: RB
 POSCON: NNP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: won
@@ -52131,7 +52131,7 @@ WORDCON: Democratic UNK
 POS: NN
 POSCON: JJ VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -52139,7 +52139,7 @@ WORDCON: UNK Saturday
 POS: VBZ
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Saturday
@@ -52283,7 +52283,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -52291,7 +52291,7 @@ WORDCON: UNK for
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -52395,7 +52395,7 @@ WORDCON: the .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -52531,7 +52531,7 @@ WORDCON: the in
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -52643,7 +52643,7 @@ WORDCON: the here
 POS: NN
 POSCON: DT RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: here
@@ -52811,7 +52811,7 @@ WORDCON: strong in
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -52843,7 +52843,7 @@ WORDCON: black '
 POS: NN
 POSCON: JJ ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -52907,7 +52907,7 @@ WORDCON: was his
 POS: VBG
 POSCON: VBD PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -53003,7 +53003,7 @@ WORDCON: officials to
 POS: VBD
 POSCON: NNS TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -53019,7 +53019,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -53043,7 +53043,7 @@ WORDCON: final after
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -53075,7 +53075,7 @@ WORDCON: record at
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -53099,7 +53099,7 @@ WORDCON: Democratic OMEGA
 POS: NN
 POSCON: JJ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -53179,7 +53179,7 @@ WORDCON: was his
 POS: VBG
 POSCON: VBD PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -53275,7 +53275,7 @@ WORDCON: officials to
 POS: VBD
 POSCON: NNS TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -53291,7 +53291,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -53315,7 +53315,7 @@ WORDCON: final after
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -53347,7 +53347,7 @@ WORDCON: record at
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -53371,7 +53371,7 @@ WORDCON: Democratic OMEGA
 POS: NN
 POSCON: JJ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: _
@@ -53507,7 +53507,7 @@ WORDCON: the in
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -53619,7 +53619,7 @@ WORDCON: the here
 POS: NN
 POSCON: DT RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: here
@@ -53683,7 +53683,7 @@ WORDCON: an showing
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: showing
@@ -53715,7 +53715,7 @@ WORDCON: Democratic in
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -53779,7 +53779,7 @@ WORDCON: the and
 POS: NN
 POSCON: DT CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -53811,7 +53811,7 @@ WORDCON: takes at
 POS: NN
 POSCON: VBZ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -53843,7 +53843,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -53898,7 +53898,7 @@ WORD: UNK
 WORDCON: Frank UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -53971,7 +53971,7 @@ WORDCON: received for
 POS: NNS
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -53987,7 +53987,7 @@ WORDCON: for UNK
 POS: JJ
 POSCON: IN NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -53995,7 +53995,7 @@ WORDCON: UNK in
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -54011,7 +54011,7 @@ WORDCON: in and
 POS: CD
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -54027,7 +54027,7 @@ WORDCON: and OMEGA
 POS: CD
 POSCON: CC OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Louis
@@ -54147,7 +54147,7 @@ WORDCON: with the
 POS: VBG
 POSCON: IN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -54171,7 +54171,7 @@ WORDCON: television OMEGA
 POS: NN
 POSCON: NN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: An
@@ -54283,7 +54283,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -54291,7 +54291,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: JJ VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -54299,7 +54299,7 @@ WORDCON: UNK UNK
 POS: VBG
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -54307,7 +54307,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: VBG ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -54331,7 +54331,7 @@ WORDCON: the on
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -54395,7 +54395,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -54419,7 +54419,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -54579,7 +54579,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -54595,7 +54595,7 @@ WORDCON: , and
 POS: NN
 POSCON: , CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -54611,7 +54611,7 @@ WORDCON: and UNK
 POS: NN
 POSCON: CC NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -54699,7 +54699,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -54803,7 +54803,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -54827,7 +54827,7 @@ WORDCON: the President
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -55019,7 +55019,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -55243,7 +55243,7 @@ WORDCON: , years
 POS: CD
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: years
@@ -55299,7 +55299,7 @@ WORDCON: has on
 POS: VBN
 POSCON: VBZ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -55371,7 +55371,7 @@ WORDCON: most black
 POS: JJ
 POSCON: RBS JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: black
@@ -55419,7 +55419,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -55427,7 +55427,7 @@ WORDCON: UNK and
 POS: NN
 POSCON: JJ CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -55443,7 +55443,7 @@ WORDCON: and UNK
 POS: VB
 POSCON: CC JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -55451,7 +55451,7 @@ WORDCON: UNK UNK
 POS: JJ
 POSCON: VB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -55459,7 +55459,7 @@ WORDCON: UNK _
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: _
@@ -55491,7 +55491,7 @@ WORDCON: without elected
 POS: VBG
 POSCON: IN VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: elected
@@ -55547,7 +55547,7 @@ WORDCON: regular .
 POS: NN
 POSCON: JJ .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -55595,7 +55595,7 @@ WORDCON: been at
 POS: JJ
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -55611,7 +55611,7 @@ WORDCON: at ,
 POS: NN
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -55635,7 +55635,7 @@ WORDCON: organizing North
 POS: JJ
 POSCON: VBG NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: North
@@ -55963,7 +55963,7 @@ WORDCON: and UNK
 POS: NNS
 POSCON: CC VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -55971,7 +55971,7 @@ WORDCON: UNK UNK
 POS: VBG
 POSCON: NNS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -55979,7 +55979,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: VBG NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -55987,7 +55987,7 @@ WORDCON: UNK and
 POS: NNS
 POSCON: NN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -56003,7 +56003,7 @@ WORDCON: and turned
 POS: NNS
 POSCON: CC VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: turned
@@ -56075,7 +56075,7 @@ WORDCON: 's street
 POS: JJS
 POSCON: POS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: street
@@ -56171,7 +56171,7 @@ WORDCON: most native
 POS: JJ
 POSCON: RBS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: native
@@ -56267,7 +56267,7 @@ WORDCON: in UNK
 POS: JJ
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -56411,7 +56411,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -56491,7 +56491,7 @@ WORDCON: Island OMEGA
 POS: ,
 POSCON: NNP OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: In
@@ -56507,7 +56507,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -56531,7 +56531,7 @@ WORDCON: the U.S.
 POS: NN
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: U.S.
@@ -56659,7 +56659,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -56675,7 +56675,7 @@ WORDCON: , Charles
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Charles
@@ -56771,7 +56771,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -56883,7 +56883,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -56995,7 +56995,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -57052,7 +57052,7 @@ POS: NNP
 POSCON: PP$ NN
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: hometown
 WORDCON: UNK to
@@ -57115,7 +57115,7 @@ WORDCON: Martin UNK
 POS: VBD
 POSCON: NNP NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -57171,7 +57171,7 @@ WORDCON: basic appeal
 POS: JJ
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: appeal
@@ -57395,7 +57395,7 @@ WORDCON: the UNK
 POS: NN
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -57451,7 +57451,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -57467,7 +57467,7 @@ WORDCON: , Helen
 POS: JJ
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Helen
@@ -57563,7 +57563,7 @@ WORDCON: without or
 POS: NN
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: or
@@ -57699,7 +57699,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -57707,7 +57707,7 @@ WORDCON: UNK matter
 POS: NNS
 POSCON: JJ VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: matter
@@ -57755,7 +57755,7 @@ WORDCON: was in
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -57859,7 +57859,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -57867,7 +57867,7 @@ WORDCON: UNK industry
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: industry
@@ -57914,7 +57914,7 @@ WORD: UNK
 WORDCON: to William
 POS: NNP
 POSCON: TO NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -57963,7 +57963,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -58067,7 +58067,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -58091,7 +58091,7 @@ WORDCON: the U.S.
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: U.S.
@@ -58307,7 +58307,7 @@ WORDCON: dry and
 POS: NN
 POSCON: JJ CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -58427,7 +58427,7 @@ WORDCON: he a
 POS: VBZ
 POSCON: PRP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -58467,7 +58467,7 @@ WORDCON: time he
 POS: VBG
 POSCON: NN PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: he
@@ -58515,7 +58515,7 @@ WORDCON: the Oklahoma
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Oklahoma
@@ -58531,7 +58531,7 @@ WORDCON: Oklahoma UNK
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -58539,7 +58539,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -58579,7 +58579,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -58595,7 +58595,7 @@ WORDCON: , Henry
 POS: JJ
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Henry
@@ -58691,7 +58691,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -58715,7 +58715,7 @@ WORDCON: American Henry
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Henry
@@ -58987,7 +58987,7 @@ WORDCON: in .
 POS: CD
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -59011,7 +59011,7 @@ WORDCON: Other are
 POS: NNS
 POSCON: JJ VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: are
@@ -59075,7 +59075,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -59259,7 +59259,7 @@ WORDCON: in and
 POS: CD
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -59283,7 +59283,7 @@ WORDCON: has in
 POS: VBN
 POSCON: VBZ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -59443,7 +59443,7 @@ WORDCON: movie OMEGA
 POS: NN
 POSCON: NN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -59467,7 +59467,7 @@ WORDCON: , ,
 POS: NN
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -59483,7 +59483,7 @@ WORDCON: , and
 POS: NN
 POSCON: , CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -59499,7 +59499,7 @@ WORDCON: and Gordon
 POS: NN
 POSCON: CC NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Gordon
@@ -59531,7 +59531,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -59586,7 +59586,7 @@ WORD: UNK
 WORDCON: , ,
 POS: NNP
 POSCON: , ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -59707,7 +59707,7 @@ WORDCON: before out
 POS: VBG
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: out
@@ -59739,7 +59739,7 @@ WORDCON: other OMEGA
 POS: NN
 POSCON: JJ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -59763,7 +59763,7 @@ WORDCON: , and
 POS: NN
 POSCON: , CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -59779,7 +59779,7 @@ WORDCON: and director
 POS: NN
 POSCON: CC NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: director
@@ -59899,7 +59899,7 @@ WORDCON: his debut
 POS: NN
 POSCON: PP$ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: debut
@@ -59947,7 +59947,7 @@ WORDCON: later such
 POS: JJ
 POSCON: RB JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: such
@@ -60171,7 +60171,7 @@ WORDCON: screen of
 POS: NNS
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -60315,7 +60315,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -60499,7 +60499,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -60563,7 +60563,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -60619,7 +60619,7 @@ WORDCON: the president
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -60724,7 +60724,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -60779,7 +60779,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -60827,7 +60827,7 @@ WORDCON: the President
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -60955,7 +60955,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -60979,7 +60979,7 @@ WORDCON: radio UNK
 POS: NNS
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -60987,7 +60987,7 @@ WORDCON: UNK Dr.
 POS: NN
 POSCON: NNS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Dr.
@@ -61075,7 +61075,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -61099,7 +61099,7 @@ WORDCON: rock Buddy
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Buddy
@@ -61251,7 +61251,7 @@ WORDCON: his UNK
 POS: JJ
 POSCON: PP$ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -61259,7 +61259,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -61299,7 +61299,7 @@ WORDCON: shot in
 POS: RB
 POSCON: VBN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -61411,7 +61411,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -61435,7 +61435,7 @@ WORDCON: UNK Jesse
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Jesse
@@ -61515,7 +61515,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -61531,7 +61531,7 @@ WORDCON: , George
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: George
@@ -61763,7 +61763,7 @@ WORDCON: ' out
 POS: VBN
 POSCON: '' IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: out
@@ -61787,7 +61787,7 @@ WORDCON: the from
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -61811,7 +61811,7 @@ WORDCON: an video
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: video
@@ -61827,7 +61827,7 @@ WORDCON: video the
 POS: VBG
 POSCON: NN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -61843,7 +61843,7 @@ WORDCON: the of
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -61923,7 +61923,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -61947,7 +61947,7 @@ WORDCON: the President
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -62010,7 +62010,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -62060,7 +62060,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK Ohio
@@ -62099,7 +62099,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -62324,7 +62324,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: '
 WORDCON: UNK `
@@ -62371,7 +62371,7 @@ WORDCON: of '
 POS: NNS
 POSCON: IN POS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -62499,7 +62499,7 @@ WORDCON: its to
 POS: NNS
 POSCON: PP$ TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -62875,7 +62875,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -62899,7 +62899,7 @@ WORDCON: the President
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -63123,7 +63123,7 @@ WORDCON: 't on
 POS: VB
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -63339,7 +63339,7 @@ WORDCON: , miles
 POS: CD
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: miles
@@ -63563,7 +63563,7 @@ WORDCON: Force ,
 POS: NN
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -63643,7 +63643,7 @@ WORDCON: a UNK
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -63651,7 +63651,7 @@ WORDCON: UNK and
 POS: NN
 POSCON: NN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -63683,7 +63683,7 @@ WORDCON: the `
 POS: JJ
 POSCON: DT ``
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: `
@@ -63779,7 +63779,7 @@ WORDCON: in .
 POS: CD
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -63907,7 +63907,7 @@ WORDCON: an to
 POS: NN
 POSCON: DT TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -64067,7 +64067,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -64243,7 +64243,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -64315,7 +64315,7 @@ WORDCON: native of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -64451,7 +64451,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -64467,7 +64467,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -64603,7 +64603,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -64619,7 +64619,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -64707,7 +64707,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -64738,7 +64738,7 @@ WORD: UNK
 WORDCON: Smith ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -64763,7 +64763,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -64875,7 +64875,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -64899,7 +64899,7 @@ WORDCON: the President
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -65051,7 +65051,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -65067,7 +65067,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -65139,7 +65139,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -65163,7 +65163,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -65299,7 +65299,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -65323,7 +65323,7 @@ WORDCON: commercial telephone
 POS: JJ
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: telephone
@@ -65355,7 +65355,7 @@ WORDCON: was between
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: between
@@ -65491,7 +65491,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -65531,7 +65531,7 @@ WORDCON: ' UNK
 POS: NN
 POSCON: POS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -65651,7 +65651,7 @@ WORDCON: to their
 POS: VB
 POSCON: TO PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: their
@@ -65707,7 +65707,7 @@ WORDCON: the have
 POS: NN
 POSCON: DT VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: have
@@ -65827,7 +65827,7 @@ WORDCON: Orleans such
 POS: NNS
 POSCON: NNP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: such
@@ -65979,7 +65979,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -65995,7 +65995,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -66075,7 +66075,7 @@ WORDCON: The of
 POS: VBZ
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -66091,7 +66091,7 @@ WORDCON: of UNK
 POS: NN
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -66099,7 +66099,7 @@ WORDCON: UNK born
 POS: NN
 POSCON: NN VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: born
@@ -66139,7 +66139,7 @@ WORDCON: city will
 POS: NN
 POSCON: NN MD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: will
@@ -66227,7 +66227,7 @@ WORDCON: of ,
 POS: NN
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -66275,7 +66275,7 @@ WORDCON: , officials
 POS: NN
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: officials
@@ -66355,7 +66355,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -66379,7 +66379,7 @@ WORDCON: the President
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -66555,7 +66555,7 @@ WORDCON: to that
 POS: VB
 POSCON: TO IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -66571,7 +66571,7 @@ WORDCON: that through
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: through
@@ -66611,7 +66611,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -66619,7 +66619,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: NN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -66635,7 +66635,7 @@ WORDCON: , at
 POS: RB
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -66843,7 +66843,7 @@ WORDCON: the society
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: society
@@ -66963,7 +66963,7 @@ WORDCON: two on
 POS: NNS
 POSCON: CD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -67155,7 +67155,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -67171,7 +67171,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -67179,7 +67179,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -67251,7 +67251,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -67267,7 +67267,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -67363,7 +67363,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -67379,7 +67379,7 @@ WORDCON: , Thomas
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Thomas
@@ -67483,7 +67483,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -67547,7 +67547,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -67587,7 +67587,7 @@ WORDCON: , president
 POS: JJ
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -67675,7 +67675,7 @@ WORDCON: a UNK
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -67683,7 +67683,7 @@ WORDCON: UNK in
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -67787,7 +67787,7 @@ WORDCON: be on
 POS: VBN
 POSCON: VB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -67867,7 +67867,7 @@ WORDCON: in in
 POS: WP
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -67915,7 +67915,7 @@ WORDCON: , of
 POS: NN
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -67939,7 +67939,7 @@ WORDCON: the UNK
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -67947,7 +67947,7 @@ WORDCON: UNK .
 POS: NN
 POSCON: NN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -67971,7 +67971,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -68084,7 +68084,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -68107,7 +68107,7 @@ WORDCON: The were
 POS: NNS
 POSCON: DT VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: were
@@ -68219,7 +68219,7 @@ WORDCON: of UNK
 POS: NN
 POSCON: IN PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -68227,7 +68227,7 @@ WORDCON: UNK ,
 POS: PRP
 POSCON: NN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -68291,7 +68291,7 @@ WORDCON: 300 UNK
 POS: NNS
 POSCON: CD VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -68299,7 +68299,7 @@ WORDCON: UNK in
 POS: VBN
 POSCON: NNS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -68427,7 +68427,7 @@ WORDCON: Democratic UNK
 POS: NN
 POSCON: JJ VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -68435,7 +68435,7 @@ WORDCON: UNK in
 POS: VBZ
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -68499,7 +68499,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -68659,7 +68659,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -68699,7 +68699,7 @@ WORDCON: , of
 POS: NN
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -68923,7 +68923,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -68939,7 +68939,7 @@ WORDCON: , and
 POS: NN
 POSCON: , CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -68955,7 +68955,7 @@ WORDCON: and UNK
 POS: NN
 POSCON: CC NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -69043,7 +69043,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -69067,7 +69067,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -69259,7 +69259,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -69403,7 +69403,7 @@ WORDCON: County .
 POS: ,
 POSCON: NNP .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -69435,7 +69435,7 @@ WORDCON: are of
 POS: NNS
 POSCON: VBP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -69491,7 +69491,7 @@ WORDCON: : _
 POS: CD
 POSCON: : NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: _
@@ -69539,7 +69539,7 @@ WORDCON: , in
 POS: CD
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -69635,7 +69635,7 @@ WORDCON: concert UNK
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -69659,7 +69659,7 @@ WORDCON: UNK OMEGA
 POS: CD
 POSCON: NNP OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -69691,7 +69691,7 @@ WORDCON: was Wednesday
 POS: VBN
 POSCON: VBD NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Wednesday
@@ -69867,7 +69867,7 @@ WORDCON: young in
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -69931,7 +69931,7 @@ WORDCON: Ball hot
 POS: VBD
 POSCON: NNP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: hot
@@ -69963,7 +69963,7 @@ WORDCON: and at
 POS: NN
 POSCON: CC IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -69987,7 +69987,7 @@ WORDCON: an UNK
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -69995,7 +69995,7 @@ WORDCON: UNK as
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: as
@@ -70019,7 +70019,7 @@ WORDCON: she of
 POS: VBD
 POSCON: PRP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -70035,7 +70035,7 @@ WORDCON: of in
 POS: VBG
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -70155,7 +70155,7 @@ WORDCON: UNK his
 POS: VBD
 POSCON: NNP PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -70202,7 +70202,7 @@ WORD: UNK
 WORDCON: , ,
 POS: NNP
 POSCON: , ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -70315,7 +70315,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -70427,7 +70427,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -70571,7 +70571,7 @@ WORDCON: the president
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -70676,7 +70676,7 @@ POS: NNP
 POSCON: , ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK in
@@ -70699,7 +70699,7 @@ WORDCON: in .
 POS: CD
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -70723,7 +70723,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -70739,7 +70739,7 @@ WORDCON: , Helen
 POS: JJ
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Helen
@@ -70827,7 +70827,7 @@ WORDCON: without or
 POS: NN
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: or
@@ -70923,7 +70923,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -70947,7 +70947,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -71091,7 +71091,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -71107,7 +71107,7 @@ WORDCON: , Henry
 POS: JJ
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Henry
@@ -71203,7 +71203,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -71243,7 +71243,7 @@ WORDCON: , of
 POS: NN
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -71275,7 +71275,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -71330,7 +71330,7 @@ WORD: UNK
 WORDCON: , UNK
 POS: NNP
 POSCON: , NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -71338,7 +71338,7 @@ WORD: UNK
 WORDCON: UNK OMEGA
 POS: NNP
 POSCON: NNP OMEGAPOS
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -71395,7 +71395,7 @@ WORDCON: UNK ,
 POS: ,
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -71539,7 +71539,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -71563,7 +71563,7 @@ WORDCON: American Henry
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Henry
@@ -71691,7 +71691,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -71739,7 +71739,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -71867,7 +71867,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -71891,7 +71891,7 @@ WORDCON: radio UNK
 POS: NNS
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -71899,7 +71899,7 @@ WORDCON: UNK Dr.
 POS: NN
 POSCON: NNS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Dr.
@@ -71987,7 +71987,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -72011,7 +72011,7 @@ WORDCON: rock Buddy
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Buddy
@@ -72123,7 +72123,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -72147,7 +72147,7 @@ WORDCON: UNK Jesse
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Jesse
@@ -72227,7 +72227,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -72251,7 +72251,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -72314,7 +72314,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -72364,7 +72364,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK Ohio
@@ -72507,7 +72507,7 @@ WORDCON: joined of
 POS: NNS
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -72563,7 +72563,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -72739,7 +72739,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -72755,7 +72755,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -72835,7 +72835,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -72859,7 +72859,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -73003,7 +73003,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -73075,7 +73075,7 @@ WORDCON: native of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -73211,7 +73211,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -73227,7 +73227,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -73363,7 +73363,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -73379,7 +73379,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -73499,7 +73499,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -73579,7 +73579,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -73595,7 +73595,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -73675,7 +73675,7 @@ WORDCON: 's in
 POS: NN
 POSCON: POS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -73739,7 +73739,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -73779,7 +73779,7 @@ WORDCON: ' UNK
 POS: NN
 POSCON: POS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -73787,7 +73787,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -73875,7 +73875,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -73891,7 +73891,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -73971,7 +73971,7 @@ WORDCON: For UNK
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -73979,7 +73979,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -74011,7 +74011,7 @@ WORDCON: noted Bob
 POS: NN
 POSCON: VBD NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Bob
@@ -74139,7 +74139,7 @@ WORDCON: and in
 POS: VBN
 POSCON: CC IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -74179,7 +74179,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -74331,7 +74331,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -74474,7 +74474,7 @@ WORD: UNK
 WORDCON: , OMEGA
 POS: NNP
 POSCON: , OMEGAPOS
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -74483,7 +74483,7 @@ WORDCON: PHI ,
 POS: CD
 POSCON: PHIPOS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -74771,7 +74771,7 @@ WORDCON: they popular
 POS: VBP
 POSCON: PRP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: popular
@@ -74867,7 +74867,7 @@ WORDCON: same as
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: as
@@ -74963,7 +74963,7 @@ WORDCON: meet .
 POS: NNS
 POSCON: VB .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -75011,7 +75011,7 @@ WORDCON: of ,
 POS: VBG
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -75147,7 +75147,7 @@ WORDCON: , up
 POS: VBZ
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: up
@@ -75259,7 +75259,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -75283,7 +75283,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -75475,7 +75475,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -75699,7 +75699,7 @@ WORDCON: , :
 POS: CD
 POSCON: , :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: :
@@ -75787,7 +75787,7 @@ WORDCON: , of
 POS: NN
 POSCON: , IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -75803,7 +75803,7 @@ WORDCON: of and
 POS: NNS
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -75819,7 +75819,7 @@ WORDCON: and of
 POS: JJ
 POSCON: CC IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -75907,7 +75907,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -76059,7 +76059,7 @@ WORDCON: a actor
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: actor
@@ -76163,7 +76163,7 @@ WORDCON: a contract
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: contract
@@ -76227,7 +76227,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -76395,7 +76395,7 @@ WORDCON: school 15
 POS: NNS
 POSCON: NN CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 15
@@ -76491,7 +76491,7 @@ WORDCON: after .
 POS: NN
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -76515,7 +76515,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -76539,7 +76539,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -76683,7 +76683,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -76699,7 +76699,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -76795,7 +76795,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -76851,7 +76851,7 @@ WORDCON: the president
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -76956,7 +76956,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -77011,7 +77011,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -77059,7 +77059,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -77187,7 +77187,7 @@ WORDCON: In ,
 POS: DT
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -77219,7 +77219,7 @@ WORDCON: naval Oliver
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Oliver
@@ -77315,7 +77315,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -77331,7 +77331,7 @@ WORDCON: , George
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: George
@@ -77411,7 +77411,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -77435,7 +77435,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -77498,7 +77498,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -77548,7 +77548,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK Ohio
@@ -77587,7 +77587,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -77651,7 +77651,7 @@ WORDCON: aviation Eddie
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Eddie
@@ -77851,7 +77851,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -78027,7 +78027,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -78043,7 +78043,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -78195,7 +78195,7 @@ WORDCON: in at
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -78299,7 +78299,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -78323,7 +78323,7 @@ WORDCON: the president
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: president
@@ -78539,7 +78539,7 @@ WORDCON: in New
 POS: JJ
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: New
@@ -78595,7 +78595,7 @@ WORDCON: failing OMEGA
 POS: NN
 POSCON: VBG OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: In
@@ -78683,7 +78683,7 @@ WORDCON: , parts
 POS: NN
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: parts
@@ -78699,7 +78699,7 @@ WORDCON: parts UNK
 POS: NN
 POSCON: NNS NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -78811,7 +78811,7 @@ WORDCON: by donations
 POS: NN
 POSCON: IN NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: donations
@@ -78827,7 +78827,7 @@ WORDCON: donations to
 POS: RB
 POSCON: NNS TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -78850,7 +78850,7 @@ WORD: UNK
 WORDCON: the OMEGA
 POS: NNP
 POSCON: DT OMEGAPOS
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -78867,7 +78867,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -78939,7 +78939,7 @@ WORDCON: native of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -79067,7 +79067,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -79083,7 +79083,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -79195,7 +79195,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -79275,7 +79275,7 @@ WORDCON: In ,
 POS: CD
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -79291,7 +79291,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -79435,7 +79435,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -79451,7 +79451,7 @@ WORDCON: , UNK
 POS: NN
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -79459,7 +79459,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -79579,7 +79579,7 @@ WORDCON: an UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -79587,7 +79587,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -79731,7 +79731,7 @@ WORDCON: distinguished UNK
 POS: JJ
 POSCON: VBN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -79739,7 +79739,7 @@ WORDCON: UNK built
 POS: NN
 POSCON: JJ VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: built
@@ -79859,7 +79859,7 @@ WORDCON: and UNK
 POS: VBG
 POSCON: CC RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -79867,7 +79867,7 @@ WORDCON: UNK among
 POS: RB
 POSCON: VBG IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: among
@@ -79891,7 +79891,7 @@ WORDCON: the of
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -79915,7 +79915,7 @@ WORDCON: the city
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: city
@@ -79995,7 +79995,7 @@ WORDCON: in .
 POS: CD
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -80155,7 +80155,7 @@ WORDCON: of after
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -80195,7 +80195,7 @@ WORDCON: of and
 POS: NN
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -80211,7 +80211,7 @@ WORDCON: and with
 POS: NN
 POSCON: CC IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -80227,7 +80227,7 @@ WORDCON: with to
 POS: NN
 POSCON: IN TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -80291,7 +80291,7 @@ WORDCON: the murder
 POS: VBN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: murder
@@ -80363,7 +80363,7 @@ WORDCON: family claims
 POS: NN
 POSCON: NN VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: claims
@@ -80435,7 +80435,7 @@ WORDCON: for ,
 POS: NN
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -80475,7 +80475,7 @@ WORDCON: UNK '
 POS: NNS
 POSCON: JJ POS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -80491,7 +80491,7 @@ WORDCON: ' do
 POS: NNS
 POSCON: POS VBP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: do
@@ -80779,7 +80779,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -80891,7 +80891,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -81019,7 +81019,7 @@ WORDCON: unpublished UNK
 POS: NN
 POSCON: JJ VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -81091,7 +81091,7 @@ WORDCON: Williams led
 POS: NN
 POSCON: NNP VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: led
@@ -81123,7 +81123,7 @@ WORDCON: an UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -81131,7 +81131,7 @@ WORDCON: UNK by
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -81235,7 +81235,7 @@ WORDCON: of and
 POS: NN
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -81251,7 +81251,7 @@ WORDCON: and UNK
 POS: JJ
 POSCON: CC NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -81259,7 +81259,7 @@ WORDCON: UNK were
 POS: NN
 POSCON: JJ VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: were
@@ -81339,7 +81339,7 @@ WORDCON: UNK .
 POS: NNS
 POSCON: NN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -81419,7 +81419,7 @@ WORDCON: Jewish ,
 POS: VB
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -81523,7 +81523,7 @@ WORDCON: Paris a
 POS: :
 POSCON: NNP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -81555,7 +81555,7 @@ WORDCON: which him
 POS: JJ
 POSCON: WDT PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: him
@@ -81571,7 +81571,7 @@ WORDCON: him during
 POS: :
 POSCON: PRP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: during
@@ -81755,7 +81755,7 @@ WORDCON: concert OMEGA
 POS: NN
 POSCON: NN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -81835,7 +81835,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -81874,7 +81874,7 @@ WORD: UNK
 WORDCON: , ,
 POS: NNP
 POSCON: , ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -81915,7 +81915,7 @@ WORDCON: his years
 POS: JJ
 POSCON: PP$ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: years
@@ -81987,7 +81987,7 @@ WORDCON: -LRB- President
 POS: JJ
 POSCON: -LRB- NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -82091,7 +82091,7 @@ WORDCON: in ,
 POS: NN
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -82147,7 +82147,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -82187,7 +82187,7 @@ WORDCON: UNK in
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -82331,7 +82331,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -82362,7 +82362,7 @@ WORD: UNK
 WORDCON: , ,
 POS: NNP
 POSCON: , ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -82411,7 +82411,7 @@ WORDCON: white house
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: house
@@ -82507,14 +82507,14 @@ WORDCON: , UNK
 POS: CD
 POSCON: , NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
 WORDCON: UNK Day
 POS: NNP
 POSCON: CD NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -82562,7 +82562,7 @@ WORD: UNK
 WORDCON: , ,
 POS: NNP
 POSCON: , ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -82587,7 +82587,7 @@ WORDCON: -LRB- -RRB-
 POS: CD
 POSCON: -LRB- -RRB-
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: -RRB-
@@ -82603,7 +82603,7 @@ WORDCON: -RRB- .
 POS: CD
 POSCON: -RRB- .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -82651,7 +82651,7 @@ WORDCON: -LRB- President
 POS: NN
 POSCON: -LRB- NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -82715,7 +82715,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -82883,7 +82883,7 @@ WORDCON: a UNK
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -82891,7 +82891,7 @@ WORDCON: UNK when
 POS: NN
 POSCON: NN WRB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: when
@@ -82995,7 +82995,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -83027,7 +83027,7 @@ WORDCON: a two-story
 POS: JJ
 POSCON: DT JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: two-story
@@ -83043,7 +83043,7 @@ WORDCON: two-story house
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: house
@@ -83155,7 +83155,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -83211,7 +83211,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -83235,7 +83235,7 @@ WORDCON: his near
 POS: NN
 POSCON: PP$ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: near
@@ -83339,7 +83339,7 @@ WORDCON: was .
 POS: VBN
 POSCON: VBD .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -83443,7 +83443,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -83515,7 +83515,7 @@ WORDCON: -LRB- President
 POS: JJ
 POSCON: -LRB- NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -83579,7 +83579,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -83611,7 +83611,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -83619,7 +83619,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -83627,7 +83627,7 @@ WORDCON: UNK in
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -83658,7 +83658,7 @@ WORD: UNK
 WORDCON: , ,
 POS: NNP
 POSCON: , ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -83691,7 +83691,7 @@ WORDCON: rolling in
 POS: NNS
 POSCON: VBG IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -83795,7 +83795,7 @@ WORDCON: -LRB- President
 POS: JJ
 POSCON: -LRB- NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: President
@@ -83859,7 +83859,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -83891,7 +83891,7 @@ WORDCON: a ,
 POS: NN
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -83907,7 +83907,7 @@ WORDCON: , home
 POS: JJ
 POSCON: , NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: home
@@ -83971,7 +83971,7 @@ WORDCON: , the
 POS: VBG
 POSCON: , DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -84083,7 +84083,7 @@ WORDCON: and UNK
 POS: JJ
 POSCON: CC NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -84098,7 +84098,7 @@ WORD: UNK
 WORDCON: UNK UNK
 POS: NNP
 POSCON: NNP NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -84219,7 +84219,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -84331,7 +84331,7 @@ WORDCON: was by
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -84379,7 +84379,7 @@ WORDCON: after from
 POS: VBG
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -84475,7 +84475,7 @@ WORDCON: , ,
 POS: CD
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -84514,7 +84514,7 @@ WORD: UNK
 WORDCON: UNK was
 POS: NNP
 POSCON: NNP VBD
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -84555,7 +84555,7 @@ WORDCON: a and
 POS: NN
 POSCON: DT CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -84715,7 +84715,7 @@ WORDCON: UNK of
 POS: NNS
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -84779,7 +84779,7 @@ WORDCON: on America
 POS: JJ
 POSCON: IN NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: America
@@ -84931,7 +84931,7 @@ WORDCON: in You
 POS: NN
 POSCON: IN PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: You
@@ -84995,7 +84995,7 @@ WORDCON: , described
 POS: NN
 POSCON: , VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: described
@@ -85019,7 +85019,7 @@ WORDCON: more the
 POS: RB
 POSCON: JJR DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -85035,7 +85035,7 @@ WORDCON: the that
 POS: NNS
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -85147,7 +85147,7 @@ WORDCON: little like
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: like
@@ -85195,7 +85195,7 @@ WORDCON: 'll through
 POS: VB
 POSCON: MD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: through
@@ -85355,7 +85355,7 @@ WORDCON: 's UNK
 POS: JJ
 POSCON: POS NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -85363,7 +85363,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -85379,7 +85379,7 @@ WORDCON: of clubs
 POS: NNS
 POSCON: IN NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: clubs
@@ -85451,7 +85451,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -85523,7 +85523,7 @@ WORDCON: in UNK
 POS: NNS
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -85531,7 +85531,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: NNS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -85563,7 +85563,7 @@ WORDCON: Highway ;
 POS: VBD
 POSCON: NNP :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -85635,7 +85635,7 @@ WORDCON: a to
 POS: NN
 POSCON: DT TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -85651,7 +85651,7 @@ WORDCON: to UNK
 POS: VB
 POSCON: TO NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -85659,7 +85659,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: VB NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -85731,7 +85731,7 @@ WORDCON: a development
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: development
@@ -85795,7 +85795,7 @@ WORDCON: for government
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: government
@@ -85907,7 +85907,7 @@ WORDCON: use in
 POS: NN
 POSCON: VB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -85923,7 +85923,7 @@ WORDCON: in ,
 POS: NNS
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -85963,7 +85963,7 @@ WORDCON: of with
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -86035,7 +86035,7 @@ WORDCON: of with
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -86075,7 +86075,7 @@ WORDCON: calls that
 POS: NN
 POSCON: VBZ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -86091,7 +86091,7 @@ WORDCON: that of
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -86107,7 +86107,7 @@ WORDCON: of UNK
 POS: NN
 POSCON: IN JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -86115,7 +86115,7 @@ WORDCON: UNK business
 POS: JJ
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: business
@@ -86147,7 +86147,7 @@ WORDCON: the .
 POS: CD
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -86163,7 +86163,7 @@ WORDCON: . ;
 POS: NN
 POSCON: . :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ;
@@ -86243,7 +86243,7 @@ WORDCON: of design
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: design
@@ -86275,7 +86275,7 @@ WORDCON: not since
 POS: JJ
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: since
@@ -86348,7 +86348,7 @@ POS: NNP
 POSCON: IN CC
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: and
 WORDCON: UNK did
@@ -86371,7 +86371,7 @@ WORDCON: did their
 POS: RB
 POSCON: VBD PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: their
@@ -86451,7 +86451,7 @@ WORDCON: The is
 POS: NN
 POSCON: DT VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: is
@@ -86467,7 +86467,7 @@ WORDCON: is interesting
 POS: RB
 POSCON: VBZ JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: interesting
@@ -86603,7 +86603,7 @@ WORDCON: early of
 POS: NNS
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -86627,7 +86627,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -86635,7 +86635,7 @@ WORDCON: UNK new
 POS: NN
 POSCON: JJ JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: new
@@ -86651,7 +86651,7 @@ WORDCON: new ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -86667,7 +86667,7 @@ WORDCON: , a
 POS: NN
 POSCON: , DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -86683,7 +86683,7 @@ WORDCON: a ,
 POS: JJ
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -86715,7 +86715,7 @@ WORDCON: , UNK
 POS: RB
 POSCON: , JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -86723,7 +86723,7 @@ WORDCON: UNK UNK
 POS: JJ
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -86731,7 +86731,7 @@ WORDCON: UNK of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -86747,7 +86747,7 @@ WORDCON: of .
 POS: VBG
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -86787,7 +86787,7 @@ WORDCON: feel to
 POS: VBN
 POSCON: VBP TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -86915,7 +86915,7 @@ WORDCON: a he
 POS: NN
 POSCON: DT PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: he
@@ -87107,7 +87107,7 @@ WORDCON: a she
 POS: NN
 POSCON: DT PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: she
@@ -87123,7 +87123,7 @@ WORDCON: she to
 POS: VBD
 POSCON: PRP TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -87147,7 +87147,7 @@ WORDCON: the Academy
 POS: CD
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Academy
@@ -87299,7 +87299,7 @@ WORDCON: old OMEGA
 POS: NN
 POSCON: JJ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -87419,7 +87419,7 @@ WORDCON: political as
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: as
@@ -87491,7 +87491,7 @@ WORDCON: he counted
 POS: RB
 POSCON: PRP VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: counted
@@ -87603,7 +87603,7 @@ WORDCON: : UNK
 POS: NN
 POSCON: : JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -87675,7 +87675,7 @@ WORDCON: Ray UNK
 POS: NN
 POSCON: NNP :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -87683,7 +87683,7 @@ WORDCON: UNK More
 POS: :
 POSCON: NN JJR
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: More
@@ -87707,7 +87707,7 @@ WORDCON: than UNK
 POS: CD
 POSCON: IN NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -87715,7 +87715,7 @@ WORDCON: UNK ,
 POS: NNS
 POSCON: CD ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -87731,7 +87731,7 @@ WORDCON: , ,
 POS: NNS
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -87747,7 +87747,7 @@ WORDCON: , ,
 POS: NNS
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -87803,7 +87803,7 @@ WORDCON: films the
 POS: VBP
 POSCON: NNS DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -87819,7 +87819,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -87963,7 +87963,7 @@ WORDCON: : UNK
 POS: NN
 POSCON: : NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -88003,7 +88003,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NNP :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -88011,7 +88011,7 @@ WORDCON: UNK UNK
 POS: :
 POSCON: NN CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -88027,7 +88027,7 @@ WORDCON: UNK and
 POS: NN
 POSCON: CD CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -88043,7 +88043,7 @@ WORDCON: and UNK
 POS: RB
 POSCON: CC NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -88051,7 +88051,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: RB NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -88059,7 +88059,7 @@ WORDCON: UNK people
 POS: NN
 POSCON: NN NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: people
@@ -88075,7 +88075,7 @@ WORDCON: people created
 POS: NNS
 POSCON: NNS VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: created
@@ -88211,7 +88211,7 @@ WORDCON: to everyone
 POS: VB
 POSCON: TO NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: everyone
@@ -88339,7 +88339,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -88387,7 +88387,7 @@ WORDCON: lower .
 POS: NN
 POSCON: JJR .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -88419,7 +88419,7 @@ WORDCON: , ,
 POS: JJ
 POSCON: , ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -88435,7 +88435,7 @@ WORDCON: , billion
 POS: JJ
 POSCON: , CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: billion
@@ -88483,7 +88483,7 @@ WORDCON: be to
 POS: JJ
 POSCON: VB TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -88499,7 +88499,7 @@ WORDCON: to that
 POS: VB
 POSCON: TO IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -88531,7 +88531,7 @@ WORDCON: federal for
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -88587,7 +88587,7 @@ WORDCON: Dakota has
 POS: NN
 POSCON: NNP VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: has
@@ -88603,7 +88603,7 @@ WORDCON: has been
 POS: RB
 POSCON: VBZ VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: been
@@ -88619,7 +88619,7 @@ WORDCON: been ,
 POS: VBN
 POSCON: VBN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -88667,7 +88667,7 @@ WORDCON: an Congress
 POS: VBD
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Congress
@@ -88955,7 +88955,7 @@ WORDCON: private ,
 POS: NNS
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -88995,7 +88995,7 @@ WORDCON: , and
 POS: NNS
 POSCON: , CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -89043,7 +89043,7 @@ WORDCON: public .
 POS: NNS
 POSCON: JJ .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -89171,7 +89171,7 @@ WORDCON: Soviet next
 POS: NN
 POSCON: JJ JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: next
@@ -89211,7 +89211,7 @@ WORDCON: also to
 POS: VBZ
 POSCON: RB TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -89227,7 +89227,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -89323,7 +89323,7 @@ WORDCON: UNK a
 POS: VBD
 POSCON: NNP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -89467,7 +89467,7 @@ WORDCON: can supplies
 POS: VB
 POSCON: MD NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: supplies
@@ -89491,7 +89491,7 @@ WORDCON: by to
 POS: NN
 POSCON: IN TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -89507,7 +89507,7 @@ WORDCON: to and
 POS: NN
 POSCON: TO CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -89523,7 +89523,7 @@ WORDCON: and areas
 POS: JJ
 POSCON: CC NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: areas
@@ -89675,7 +89675,7 @@ WORDCON: flames through
 POS: VBN
 POSCON: NNS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: through
@@ -89875,7 +89875,7 @@ WORDCON: a from
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -90339,7 +90339,7 @@ WORDCON: ` UNK
 POS: JJ
 POSCON: `` NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -90347,7 +90347,7 @@ WORDCON: UNK '
 POS: NNS
 POSCON: JJ POS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -90467,7 +90467,7 @@ WORDCON: his in
 POS: NN
 POSCON: PP$ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -90715,7 +90715,7 @@ WORDCON: of and
 POS: NNS
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -90731,7 +90731,7 @@ WORDCON: and that
 POS: NNS
 POSCON: CC IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -90771,7 +90771,7 @@ WORDCON: least people
 POS: CD
 POSCON: JJS NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: people
@@ -90955,7 +90955,7 @@ WORDCON: is a
 POS: VBG
 POSCON: VBZ DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -90971,7 +90971,7 @@ WORDCON: a Kentucky
 POS: JJ
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Kentucky
@@ -91098,7 +91098,7 @@ WORD: UNK
 WORDCON: , ,
 POS: NNP
 POSCON: , ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -91155,7 +91155,7 @@ WORDCON: from to
 POS: CD
 POSCON: IN TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -91171,7 +91171,7 @@ WORDCON: to .
 POS: CD
 POSCON: TO .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -91219,7 +91219,7 @@ WORDCON: place by
 POS: JJ
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -91275,7 +91275,7 @@ WORDCON: some who
 POS: NNS
 POSCON: DT WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -91291,7 +91291,7 @@ WORDCON: who out
 POS: VBP
 POSCON: WP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: out
@@ -91315,7 +91315,7 @@ WORDCON: its .
 POS: NN
 POSCON: PP$ .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -91435,7 +91435,7 @@ WORDCON: to that
 POS: VB
 POSCON: TO IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -91460,7 +91460,7 @@ POS: NNP
 POSCON: DT MD
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: will
 WORDCON: UNK give
@@ -91482,8 +91482,8 @@ WORD: UNK
 WORDCON: give '
 POS: NN
 POSCON: VB ''
-ABBR: no
-CAP: yes
+ABBR: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -91715,7 +91715,7 @@ WORDCON: U.S. will
 POS: NNS
 POSCON: NNP MD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: will
@@ -91731,7 +91731,7 @@ WORDCON: will '
 POS: VB
 POSCON: MD ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -91763,7 +91763,7 @@ WORDCON: their under
 POS: NNS
 POSCON: PP$ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: under
@@ -91851,7 +91851,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -91867,7 +91867,7 @@ WORDCON: of UNK
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -91875,7 +91875,7 @@ WORDCON: UNK ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -91915,7 +91915,7 @@ WORDCON: has to
 POS: VBN
 POSCON: VBZ TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -91931,7 +91931,7 @@ WORDCON: to 150
 POS: VB
 POSCON: TO CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: 150
@@ -92011,7 +92011,7 @@ WORDCON: the million
 POS: NN
 POSCON: DT CD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: million
@@ -92027,7 +92027,7 @@ WORDCON: million ,
 POS: NN
 POSCON: CD ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -92131,7 +92131,7 @@ WORDCON: being by
 POS: VBN
 POSCON: VBG IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -92251,7 +92251,7 @@ WORDCON: to cells
 POS: VB
 POSCON: TO NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: cells
@@ -92283,7 +92283,7 @@ WORDCON: they some
 POS: VBD
 POSCON: PRP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: some
@@ -92299,7 +92299,7 @@ WORDCON: some and
 POS: NNS
 POSCON: DT CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -92315,7 +92315,7 @@ WORDCON: and ,
 POS: NNS
 POSCON: CC ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -92363,7 +92363,7 @@ WORDCON: UNK to
 POS: VBD
 POSCON: NNP TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -92451,7 +92451,7 @@ WORDCON: stage after
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: after
@@ -92579,7 +92579,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -92779,7 +92779,7 @@ WORDCON: highly `
 POS: VBN
 POSCON: RB ``
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: `
@@ -92883,7 +92883,7 @@ WORDCON: bad ,
 POS: NN
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -92947,7 +92947,7 @@ WORDCON: getting '
 POS: NN
 POSCON: VBG ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -93067,7 +93067,7 @@ WORDCON: speaking at
 POS: NNS
 POSCON: VBG IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -93083,7 +93083,7 @@ WORDCON: at on
 POS: NNS
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -93147,7 +93147,7 @@ WORDCON: daily of
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -93291,7 +93291,7 @@ WORDCON: Bush in
 POS: VBD
 POSCON: NNP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -93315,7 +93315,7 @@ WORDCON: a race
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: race
@@ -93387,7 +93387,7 @@ WORDCON: UNK ,
 POS: NNS
 POSCON: NNP ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -93443,7 +93443,7 @@ WORDCON: would new
 POS: VB
 POSCON: MD JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: new
@@ -93459,7 +93459,7 @@ WORDCON: new today
 POS: NNS
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: today
@@ -93475,7 +93475,7 @@ WORDCON: today to
 POS: VBG
 POSCON: NN TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -93507,7 +93507,7 @@ WORDCON: 's ,
 POS: NNS
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -93539,7 +93539,7 @@ WORDCON: they to
 POS: VBD
 POSCON: PRP TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -93587,7 +93587,7 @@ WORDCON: A was
 POS: NN
 POSCON: DT VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: was
@@ -93603,7 +93603,7 @@ WORDCON: was at
 POS: VBN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -93715,7 +93715,7 @@ WORDCON: luxury in
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -93803,7 +93803,7 @@ WORDCON: no to
 POS: NN
 POSCON: RB TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -93843,7 +93843,7 @@ WORDCON: of who
 POS: NNS
 POSCON: IN WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -93859,7 +93859,7 @@ WORDCON: who at
 POS: VBD
 POSCON: WP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: at
@@ -93899,7 +93899,7 @@ WORDCON: he into
 POS: VBD
 POSCON: PRP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: into
@@ -93923,7 +93923,7 @@ WORDCON: the UNK
 POS: NN
 POSCON: DT VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -93931,7 +93931,7 @@ WORDCON: UNK UNK
 POS: VBG
 POSCON: NN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -93939,7 +93939,7 @@ WORDCON: UNK and
 POS: NN
 POSCON: VBG CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -93963,7 +93963,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -93971,7 +93971,7 @@ WORDCON: UNK around
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: around
@@ -94363,7 +94363,7 @@ WORDCON: of had
 POS: NN
 POSCON: IN VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: had
@@ -94443,7 +94443,7 @@ WORDCON: an number
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: number
@@ -94627,7 +94627,7 @@ WORDCON: , pounds
 POS: CD
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: pounds
@@ -94659,7 +94659,7 @@ WORDCON: the in
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -94755,7 +94755,7 @@ WORDCON: single UNK
 POS: NN
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -94763,7 +94763,7 @@ WORDCON: UNK .
 POS: NN
 POSCON: NN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -94955,7 +94955,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -94971,7 +94971,7 @@ WORDCON: of that
 POS: NNS
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -94995,7 +94995,7 @@ WORDCON: he UNK
 POS: VBD
 POSCON: PRP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -95003,7 +95003,7 @@ WORDCON: UNK during
 POS: NN
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: during
@@ -95043,7 +95043,7 @@ WORDCON: and his
 POS: VBD
 POSCON: CC PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -95059,7 +95059,7 @@ WORDCON: his UNK
 POS: JJ
 POSCON: PP$ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -95067,7 +95067,7 @@ WORDCON: UNK during
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: during
@@ -95091,7 +95091,7 @@ WORDCON: campaign .
 POS: VBZ
 POSCON: NN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -95211,7 +95211,7 @@ WORDCON: to of
 POS: CD
 POSCON: TO IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -95235,7 +95235,7 @@ WORDCON: these UNK
 POS: NNS
 POSCON: DT VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -95243,7 +95243,7 @@ WORDCON: UNK around
 POS: VBG
 POSCON: NNS IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: around
@@ -95379,7 +95379,7 @@ WORDCON: state may
 POS: NNS
 POSCON: NN MD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: may
@@ -95435,7 +95435,7 @@ WORDCON: legislative .
 POS: NN
 POSCON: JJ .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -95491,7 +95491,7 @@ WORDCON: was on
 POS: VBG
 POSCON: VBD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -95547,7 +95547,7 @@ WORDCON: the Thursday
 POS: NN
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Thursday
@@ -95595,7 +95595,7 @@ WORDCON: his just
 POS: NN
 POSCON: PP$ RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: just
@@ -95611,7 +95611,7 @@ WORDCON: just the
 POS: IN
 POSCON: RB DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -95635,7 +95635,7 @@ WORDCON: front ,
 POS: NNS
 POSCON: JJ ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -95755,7 +95755,7 @@ WORDCON: to a
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -95771,7 +95771,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -95779,7 +95779,7 @@ WORDCON: UNK is
 POS: NN
 POSCON: JJ VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: is
@@ -95803,7 +95803,7 @@ WORDCON: almost ,
 POS: JJ
 POSCON: RB ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -95972,7 +95972,7 @@ POS: NNP
 POSCON: , .
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: .
 WORDCON: UNK OMEGA
@@ -96035,7 +96035,7 @@ WORDCON: still for
 POS: VBZ
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -96267,7 +96267,7 @@ WORDCON: has to
 POS: VBN
 POSCON: VBZ TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -96419,7 +96419,7 @@ WORDCON: the pilot
 POS: NN
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: pilot
@@ -96675,7 +96675,7 @@ WORDCON: to a
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -96716,7 +96716,7 @@ POS: NNP
 POSCON: IN ,
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: ,
 WORDCON: UNK is
@@ -96747,7 +96747,7 @@ WORDCON: neither by
 POS: VBN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: by
@@ -96787,7 +96787,7 @@ WORDCON: of the
 POS: VBG
 POSCON: IN DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -96899,7 +96899,7 @@ WORDCON: is and
 POS: JJ
 POSCON: VBZ CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -97003,7 +97003,7 @@ WORDCON: The ,
 POS: NN
 POSCON: DT ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -97107,7 +97107,7 @@ WORDCON: nationwide Feb.
 POS: NN
 POSCON: JJ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Feb.
@@ -97139,7 +97139,7 @@ WORDCON: that UNK
 POS: VBN
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -97147,7 +97147,7 @@ WORDCON: UNK service
 POS: NN
 POSCON: VBN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: service
@@ -97179,7 +97179,7 @@ WORDCON: 12 .
 POS: NNS
 POSCON: CD .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -97291,7 +97291,7 @@ WORDCON: what she
 POS: NN
 POSCON: WP PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: she
@@ -97315,7 +97315,7 @@ WORDCON: would during
 POS: VB
 POSCON: MD IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: during
@@ -97779,7 +97779,7 @@ WORDCON: the company
 POS: VBG
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: company
@@ -97867,7 +97867,7 @@ WORDCON: of has
 POS: NNS
 POSCON: IN VBZ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: has
@@ -97923,7 +97923,7 @@ WORDCON: the UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -97931,7 +97931,7 @@ WORDCON: UNK on
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -97955,7 +97955,7 @@ WORDCON: the of
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -98003,7 +98003,7 @@ WORDCON: 's UNK
 POS: NN
 POSCON: POS NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98011,7 +98011,7 @@ WORDCON: UNK because
 POS: NNS
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: because
@@ -98075,7 +98075,7 @@ WORDCON: 's ,
 POS: NN
 POSCON: POS ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -98187,7 +98187,7 @@ WORDCON: 's UNK
 POS: JJ
 POSCON: POS NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98195,7 +98195,7 @@ WORDCON: UNK UNK
 POS: NNS
 POSCON: JJ VBG
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98203,7 +98203,7 @@ WORDCON: UNK the
 POS: VBG
 POSCON: NNS DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -98227,7 +98227,7 @@ WORDCON: Illinois UNK
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98235,7 +98235,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NN VBN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98243,7 +98243,7 @@ WORDCON: UNK his
 POS: VBN
 POSCON: NN PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -98283,7 +98283,7 @@ WORDCON: the man
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: man
@@ -98323,7 +98323,7 @@ WORDCON: the court
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: court
@@ -98379,7 +98379,7 @@ WORDCON: 's some
 POS: VBG
 POSCON: VBZ DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: some
@@ -98395,7 +98395,7 @@ WORDCON: some within
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: within
@@ -98483,7 +98483,7 @@ WORDCON: in ,
 POS: NNS
 POSCON: IN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -98539,7 +98539,7 @@ WORDCON: larger of
 POS: NN
 POSCON: JJR IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: of
@@ -98555,7 +98555,7 @@ WORDCON: of from
 POS: NNS
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -98715,7 +98715,7 @@ WORDCON: whose UNK
 POS: VBN
 POSCON: WP$ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98723,7 +98723,7 @@ WORDCON: UNK was
 POS: NN
 POSCON: VBN VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: was
@@ -98755,7 +98755,7 @@ WORDCON: in last
 POS: VBP
 POSCON: IN JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: last
@@ -98795,7 +98795,7 @@ WORDCON: his UNK
 POS: JJ
 POSCON: PP$ NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98843,7 +98843,7 @@ WORDCON: a who
 POS: NN
 POSCON: DT WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -98867,7 +98867,7 @@ WORDCON: was to
 POS: VBN
 POSCON: VBD TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -98883,7 +98883,7 @@ WORDCON: to on
 POS: VB
 POSCON: TO IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -98899,7 +98899,7 @@ WORDCON: on and
 POS: NNS
 POSCON: IN CC
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: and
@@ -98915,7 +98915,7 @@ WORDCON: and UNK
 POS: JJ
 POSCON: CC NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98923,7 +98923,7 @@ WORDCON: UNK in
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -98971,7 +98971,7 @@ WORDCON: daily UNK
 POS: NN
 POSCON: JJ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -98979,7 +98979,7 @@ WORDCON: UNK ,
 POS: NNS
 POSCON: NN ,
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ,
@@ -99099,7 +99099,7 @@ WORDCON: very procedure
 POS: JJ
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: procedure
@@ -99163,7 +99163,7 @@ WORDCON: 're on
 POS: VBG
 POSCON: VBP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: on
@@ -99179,7 +99179,7 @@ WORDCON: on ...
 POS: NNS
 POSCON: IN :
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: ...
@@ -99203,7 +99203,7 @@ WORDCON: and them
 POS: VBG
 POSCON: CC PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: them
@@ -99283,7 +99283,7 @@ WORDCON: international services
 POS: JJ
 POSCON: JJ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: services
@@ -99315,7 +99315,7 @@ WORDCON: for .
 POS: NNP
 POSCON: IN .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -99339,7 +99339,7 @@ WORDCON: UNK `
 POS: VBD
 POSCON: NNS ``
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: `
@@ -99483,7 +99483,7 @@ WORDCON: stop economic
 POS: JJ
 POSCON: VBP JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: economic
@@ -99539,7 +99539,7 @@ WORDCON: Television that
 POS: NNS
 POSCON: NN WDT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -99563,7 +99563,7 @@ WORDCON: began Sunday
 POS: VBG
 POSCON: VBD NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Sunday
@@ -99595,7 +99595,7 @@ WORDCON: UNK himself
 POS: VBG
 POSCON: NNP PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: himself
@@ -99643,7 +99643,7 @@ WORDCON: with for
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -99699,7 +99699,7 @@ WORDCON: a .
 POS: NN
 POSCON: DT .
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: .
@@ -99746,7 +99746,7 @@ WORD: UNK
 WORDCON: Gore had
 POS: NNP
 POSCON: NNP VBD
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -99890,7 +99890,7 @@ WORD: UNK
 WORDCON: UNK ,
 POS: NNP
 POSCON: NNP ,
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -99971,7 +99971,7 @@ WORDCON: Court states
 POS: VBD
 POSCON: NNP NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: states
@@ -100011,7 +100011,7 @@ WORDCON: to him
 POS: VB
 POSCON: TO PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: him
@@ -100107,7 +100107,7 @@ WORDCON: adopted UNK
 POS: JJ
 POSCON: VBD NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -100115,7 +100115,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: JJ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -100123,7 +100123,7 @@ WORDCON: UNK that
 POS: NNS
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: that
@@ -100155,7 +100155,7 @@ WORDCON: it for
 POS: JJ
 POSCON: PRP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -100187,7 +100187,7 @@ WORDCON: to even
 POS: VB
 POSCON: TO RB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: even
@@ -100275,7 +100275,7 @@ WORDCON: a UNK
 POS: JJ
 POSCON: DT NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -100283,7 +100283,7 @@ WORDCON: UNK for
 POS: NN
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -100331,7 +100331,7 @@ WORDCON: attacks UNK
 POS: JJ
 POSCON: VBZ NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -100339,7 +100339,7 @@ WORDCON: UNK in
 POS: NNS
 POSCON: JJ IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -100355,7 +100355,7 @@ WORDCON: in for
 POS: NN
 POSCON: IN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: for
@@ -100411,7 +100411,7 @@ WORDCON: UNK OMEGA
 POS: NN
 POSCON: JJ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: The
@@ -100443,7 +100443,7 @@ WORDCON: men to
 POS: VBD
 POSCON: NNS TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -100467,7 +100467,7 @@ WORDCON: the UNK
 POS: CD
 POSCON: DT NNP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -100507,7 +100507,7 @@ WORDCON: , called
 POS: RB
 POSCON: , VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: called
@@ -100563,7 +100563,7 @@ WORDCON: UNK OMEGA
 POS: NN
 POSCON: NNP OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: The
@@ -100603,7 +100603,7 @@ WORDCON: been hearings
 POS: VBG
 POSCON: VBN NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: hearings
@@ -100683,7 +100683,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -100723,7 +100723,7 @@ WORDCON: UNK OMEGA
 POS: NN
 POSCON: VBZ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Nancy
@@ -100907,7 +100907,7 @@ WORDCON: Texas would
 POS: NN
 POSCON: NNP MD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: would
@@ -100939,7 +100939,7 @@ WORDCON: legally since
 POS: JJ
 POSCON: RB IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: since
@@ -100971,7 +100971,7 @@ WORDCON: would a
 POS: NN
 POSCON: MD DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: a
@@ -100995,7 +100995,7 @@ WORDCON: federal OMEGA
 POS: NN
 POSCON: JJ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -101075,7 +101075,7 @@ WORDCON: regular who
 POS: NN
 POSCON: JJ WP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: who
@@ -101123,7 +101123,7 @@ WORDCON: over UNK
 POS: JJ
 POSCON: IN NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -101131,7 +101131,7 @@ WORDCON: UNK OMEGA
 POS: NN
 POSCON: JJ OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: One
@@ -101235,7 +101235,7 @@ WORDCON: he the
 POS: VBN
 POSCON: PRP DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -101347,7 +101347,7 @@ WORDCON: live '
 POS: NN
 POSCON: VB ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -101579,7 +101579,7 @@ WORDCON: the should
 POS: NN
 POSCON: DT MD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: should
@@ -101635,7 +101635,7 @@ WORDCON: UNK UNK
 POS: NN
 POSCON: NNP NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -101643,7 +101643,7 @@ WORDCON: UNK OMEGA
 POS: NN
 POSCON: NN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: One
@@ -101883,7 +101883,7 @@ WORDCON: us with
 POS: VBG
 POSCON: PRP IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: with
@@ -101907,7 +101907,7 @@ WORDCON: UNK it
 POS: WRB
 POSCON: NNP PRP
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: it
@@ -101930,8 +101930,8 @@ WORD: UNK
 WORDCON: may '
 POS: NN
 POSCON: MD ''
-ABBR: no
-CAP: yes
+ABBR: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -101962,7 +101962,7 @@ WORD: UNK
 WORDCON: _ UNK
 POS: NNP
 POSCON: NN NNP
-ABBR: no
+ABBR: yes
 CAP: yes
 LOCATION: no
 
@@ -102019,7 +102019,7 @@ WORDCON: an UNK
 POS: JJ
 POSCON: DT JJ
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -102027,7 +102027,7 @@ WORDCON: UNK term
 POS: JJ
 POSCON: JJ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: term
@@ -102052,7 +102052,7 @@ POS: NNP
 POSCON: IN POS
 ABBR: no
 CAP: yes
-LOCATION: no
+LOCATION: yes
 
 WORD: 's
 WORDCON: UNK president
@@ -102083,7 +102083,7 @@ WORDCON: , charges
 POS: IN
 POSCON: , NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: charges
@@ -102123,7 +102123,7 @@ WORDCON: election OMEGA
 POS: NN
 POSCON: NN OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: Police
@@ -102163,7 +102163,7 @@ WORDCON: UNK his
 POS: VBD
 POSCON: NNP PP$
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: his
@@ -102371,7 +102371,7 @@ WORDCON: a in
 POS: NN
 POSCON: DT IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: in
@@ -102395,7 +102395,7 @@ WORDCON: his warning
 POS: NN
 POSCON: PP$ NN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: warning
@@ -102443,7 +102443,7 @@ WORDCON: We finish
 POS: MD
 POSCON: PRP VB
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: finish
@@ -102507,7 +102507,7 @@ WORDCON: UNK OMEGA
 POS: NN
 POSCON: NNP OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: The
@@ -102547,7 +102547,7 @@ WORDCON: to the
 POS: VB
 POSCON: TO DT
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: the
@@ -102795,7 +102795,7 @@ WORDCON: battle from
 POS: NN
 POSCON: NN IN
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: from
@@ -102907,7 +102907,7 @@ WORDCON: of '
 POS: NN
 POSCON: IN ''
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: '
@@ -102971,7 +102971,7 @@ WORDCON: Western was
 POS: NN
 POSCON: JJ VBD
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: was
@@ -102987,7 +102987,7 @@ WORDCON: was UNK
 POS: VBG
 POSCON: VBD NNS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK
@@ -102995,7 +102995,7 @@ WORDCON: UNK to
 POS: NNS
 POSCON: VBG TO
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: to
@@ -103019,7 +103019,7 @@ WORDCON: the OMEGA
 POS: NN
 POSCON: DT OMEGAPOS
 ABBR: no
-CAP: yes
+CAP: no
 LOCATION: no
 
 WORD: UNK

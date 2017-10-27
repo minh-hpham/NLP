@@ -45,14 +45,14 @@ public class Ner {
 		}
 
 		HashMap<String, Integer> feature = generateTrainFeature(train, ftype);
-//		for (String key : feature.keySet()) {
-//			System.out.println(key);
-//		}
+		// for (String key : feature.keySet()) {
+		// System.out.println(key);
+		// }
 		// train.readable
 		ArrayList<Node> trainNodes = generateTrainNodes(train, ftype, locs);
 		generateReadableFile(trainNodes, "train.txt.readable");
 		// test.readable
-		
+
 		ArrayList<ArrayList<Word>> test = getWords(args[1]);
 		ArrayList<Node> testNodes = generateTestNodes(test, ftype, locs, trainwords, trainpos);
 		generateReadableFile(testNodes, "test.txt.readable");
@@ -118,7 +118,7 @@ public class Ner {
 			}
 			writer.write(sb.toString());
 			sb.setLength(0);
-			
+
 			for (i = 1; i < size; i++) {
 				writer.newLine();
 				all = nodes.get(i).getAll();
@@ -153,7 +153,7 @@ public class Ner {
 
 		} catch (IOException e) {
 			e.printStackTrace();
-		} catch(NullPointerException e1) {
+		} catch (NullPointerException e1) {
 			System.out.println(all[1]);
 		} finally {
 			try {
@@ -203,7 +203,7 @@ public class Ner {
 		// all pos
 		data.put("prev-pos-PHIPOS", count++);
 		data.put("next-pos-OMEGAPOS", count++);
-		
+
 		if (ftype.contains("ABBR")) {
 			data.put("abbreviated", count++);
 		}
@@ -258,9 +258,9 @@ public class Ner {
 		poscon = ftype.contains("POSCON") ? PHIPOS + " " + sentence.get(1).getPos() : "n/a";
 		current.setPOSCON(poscon);
 
-		current.setABBR(ftype.contains("ABBR"));
-		current.setCAP(ftype.contains("CAP"));
-		current.setLocation(ftype.contains("LOCATION"), locs.contains(sentence.get(0).getWord()));
+		current.setABBR(ftype.contains("ABBR"), sentence.get(0).getOrigin());
+		current.setCAP(ftype.contains("CAP"), sentence.get(0).getOrigin());
+		current.setLocation(ftype.contains("LOCATION"), locs.contains(sentence.get(0).getOrigin()));
 
 		data.add(current);
 		for (int i = 1; i < s_len - 1; i++) {
@@ -283,9 +283,9 @@ public class Ner {
 					: "n/a";
 			current.setPOSCON(poscon);
 
-			current.setABBR(ftype.contains("ABBR"));
-			current.setCAP(ftype.contains("CAP"));
-			current.setLocation(ftype.contains("LOCATION"), locs.contains(sentence.get(i).getWord()));
+			current.setABBR(ftype.contains("ABBR"), sentence.get(i).getOrigin());
+			current.setCAP(ftype.contains("CAP"), sentence.get(i).getOrigin());
+			current.setLocation(ftype.contains("LOCATION"), locs.contains(sentence.get(i).getOrigin()));
 
 			data.add(current);
 		}
@@ -300,9 +300,9 @@ public class Ner {
 		poscon = ftype.contains("POSCON") ? sentence.get(s_len - 2).getPos() + " " + OMEGAPOS : "n/a";
 		current.setPOSCON(poscon);
 
-		current.setABBR(ftype.contains("ABBR"));
-		current.setCAP(ftype.contains("CAP"));
-		current.setLocation(ftype.contains("LOCATION"), locs.contains(sentence.get(s_len - 1).getWord()));
+		current.setABBR(ftype.contains("ABBR"), sentence.get(s_len - 1).getOrigin());
+		current.setCAP(ftype.contains("CAP"), sentence.get(s_len - 1).getOrigin());
+		current.setLocation(ftype.contains("LOCATION"), locs.contains(sentence.get(s_len - 1).getOrigin()));
 
 		data.add(current);
 		return data;
@@ -423,29 +423,9 @@ public class Ner {
 					data.add(sentence);
 				}
 			}
-		}
-		/*
-		String line = null;
-		BufferedReader reader = null;
-		try {
-			reader = new BufferedReader(new InputStreamReader(in));
-			sentence = new ArrayList<Word>();
-			while ((line = reader.readLine()) != null) {
-				
-				if (line.isEmpty() ) {
-					if (!sentence.isEmpty()) {
-						data.add(sentence);
-						sentence = new ArrayList<Word>();
-					}
-				} else {
-					split = line.split("\\s+");
-					sentence.add(new Word(split[0], split[1], split[2]));
-				}
-			}
-		}
-		*/catch(Exception e){
+		} catch (Exception e) {
 			System.out.println(line);
-		}finally {
+		} finally {
 			reader.close();
 		}
 		return data;
@@ -495,7 +475,7 @@ public class Ner {
 				writer.newLine();
 				writer.write("CAP: " + all[6]);
 				writer.newLine();
-				writer.write("LOCATION: " + all[7]);			
+				writer.write("LOCATION: " + all[7]);
 			}
 
 		} catch (IOException e) {
