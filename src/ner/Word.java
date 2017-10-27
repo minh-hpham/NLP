@@ -2,7 +2,7 @@ package ner;
 
 public class Word {
 	private String LABEL, WORD, POS;
-	public Word (String l, String w, String p) {
+	public Word (String l, String p, String w) {
 		LABEL = l;
 		WORD = w;
 		POS = p;

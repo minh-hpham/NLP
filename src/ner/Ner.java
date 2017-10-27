@@ -34,6 +34,7 @@ public class Ner {
 		HashSet<String> locs = getLocations(args[2]);
 
 		ArrayList<ArrayList<Word>> train = getWords(args[0]);
+
 		HashSet<String> trainwords = new HashSet<>();
 		HashSet<String> trainpos = new HashSet<>();
 		for (ArrayList<Word> s : train) {
@@ -44,10 +45,14 @@ public class Ner {
 		}
 
 		HashMap<String, Integer> feature = generateTrainFeature(train, ftype);
+//		for (String key : feature.keySet()) {
+//			System.out.println(key);
+//		}
 		// train.readable
 		ArrayList<Node> trainNodes = generateTrainNodes(train, ftype, locs);
 		generateReadableFile(trainNodes, "train.txt.readable");
 		// test.readable
+		
 		ArrayList<ArrayList<Word>> test = getWords(args[1]);
 		ArrayList<Node> testNodes = generateTestNodes(test, ftype, locs, trainwords, trainpos);
 		generateReadableFile(testNodes, "test.txt.readable");
@@ -83,17 +88,46 @@ public class Ner {
 			fw = new FileWriter(file);
 			writer = new BufferedWriter(fw);
 			StringBuilder sb = new StringBuilder();
-			for (int i = 0; i < size; i++) {
+			// first line
+			int i = 0;
+			all = nodes.get(i).getAll();
+			// label
+			sb.append(integerLabel.get(all[0]));
+			sb.append(" ");
+			// features
+			split = all[4].split("\\s+");
+			ArrayList<Integer> index = new ArrayList<>();
+			index.add(feature.get("pos-" + all[3]));
+			index.add(feature.get("prev-pos-" + split[0]));
+			index.add(feature.get("next-pos-" + split[1]));
+
+			if (all[5].equals("yes")) {
+				index.add(feature.get("abbreviated"));
+			}
+			if (all[6].equals("yes")) {
+				index.add(feature.get("capitalized"));
+			}
+			if (all[7].equals("yes")) {
+				index.add(feature.get("islocation"));
+			}
+			Collections.sort(index);
+			// pos, prev pos, next pos
+			for (int j = 0; j < index.size(); j++) {
+				sb.append(index.get(j));
+				sb.append(":1 ");
+			}
+			writer.write(sb.toString());
+			sb.setLength(0);
+			
+			for (i = 1; i < size; i++) {
+				writer.newLine();
 				all = nodes.get(i).getAll();
-				// word
-				sb.append(all[1]);
-				sb.append(" ");
 				// label
 				sb.append(integerLabel.get(all[0]));
 				sb.append(" ");
 				// features
 				split = all[4].split("\\s+");
-				ArrayList<Integer> index = new ArrayList<>();
+				index = new ArrayList<>();
 				index.add(feature.get("pos-" + all[3]));
 				index.add(feature.get("prev-pos-" + split[0]));
 				index.add(feature.get("next-pos-" + split[1]));
@@ -115,11 +149,12 @@ public class Ner {
 				}
 				writer.write(sb.toString());
 				sb.setLength(0);
-				writer.newLine();
 			}
 
 		} catch (IOException e) {
 			e.printStackTrace();
+		} catch(NullPointerException e1) {
+			System.out.println(all[1]);
 		} finally {
 			try {
 				writer.close();
@@ -137,6 +172,8 @@ public class Ner {
 		int t_size = -1;
 		int count = 0;
 		String key = null;
+		String pos = null;
+
 		ArrayList<Word> temp;
 		// all words
 		for (int i = 0; i < al_size; i++) {
@@ -147,30 +184,26 @@ public class Ner {
 				if (data.containsKey(key) == false) {
 					data.put(key, count++);
 				}
+				pos = temp.get(j).getPos();
+				key = "pos-" + pos;
+				if (data.containsKey(key) == false) {
+					data.put(key, count++);
+				}
+				key = "prev-pos-" + pos;
+				if (data.containsKey(key) == false) {
+					data.put(key, count++);
+				}
+				key = "next-pos-" + pos;
+				if (data.containsKey(key) == false) {
+					data.put(key, count++);
+				}
 			}
 		}
 		data.put("word-UNK", count++);
 		// all pos
 		data.put("prev-pos-PHIPOS", count++);
 		data.put("next-pos-OMEGAPOS", count++);
-		String[] pos = new String[] { "NNP", "NN", "VBD", "DT", "IN", "UNKPOS" };
-
-		for (int j = 0; j < pos.length; j++) {
-			key = "pos-" + pos[j];
-			if (data.containsKey(key) == false) {
-				data.put(key, count++);
-			}
-			key = "prev-pos-" + pos[j];
-			if (data.containsKey(key) == false) {
-				data.put(key, count++);
-			}
-			key = " next-pos-" + pos[j];
-			if (data.containsKey(key) == false) {
-				data.put(key, count++);
-			}
-
-		}
-
+		
 		if (ftype.contains("ABBR")) {
 			data.put("abbreviated", count++);
 		}
@@ -282,7 +315,7 @@ public class Ner {
 		String line = null;
 		try {
 			reader = new BufferedReader(new InputStreamReader(in));
-			while ((line = reader.readLine().trim()) != null) {
+			while ((line = reader.readLine()) != null) {
 				data.add(line);
 			}
 
@@ -375,20 +408,44 @@ public class Ner {
 		InputStream in = new FileInputStream(new File(filename));
 		ArrayList<ArrayList<Word>> data = new ArrayList<>();
 		ArrayList<Word> sentence;
+		String[] split;
 		Scanner reader = null;
 		String line = null;
-		String[] split;
 		try {
 			reader = new Scanner(new InputStreamReader(in));
-			while (reader.hasNext()) {
+			while (reader.hasNextLine()) {
 				sentence = new ArrayList<>();
-				while ((line = reader.nextLine()).isEmpty() == false) {
+				while (reader.hasNextLine() && (line = reader.nextLine()).isEmpty() == false) {
 					split = line.split("\\s+");
 					sentence.add(new Word(split[0], split[1], split[2]));
 				}
-				data.add(sentence);
+				if (sentence.isEmpty() == false) {
+					data.add(sentence);
+				}
 			}
-		} finally {
+		}
+		/*
+		String line = null;
+		BufferedReader reader = null;
+		try {
+			reader = new BufferedReader(new InputStreamReader(in));
+			sentence = new ArrayList<Word>();
+			while ((line = reader.readLine()) != null) {
+				
+				if (line.isEmpty() ) {
+					if (!sentence.isEmpty()) {
+						data.add(sentence);
+						sentence = new ArrayList<Word>();
+					}
+				} else {
+					split = line.split("\\s+");
+					sentence.add(new Word(split[0], split[1], split[2]));
+				}
+			}
+		}
+		*/catch(Exception e){
+			System.out.println(line);
+		}finally {
 			reader.close();
 		}
 		return data;
@@ -407,18 +464,38 @@ public class Ner {
 		try {
 			fw = new FileWriter(file);
 			writer = new BufferedWriter(fw);
-			StringBuilder sb = new StringBuilder();
-			for (int i = 0; i < size; i++) {
+			int i = 0;
+			all = nodes.get(i).getAll();
+			writer.write("WORD: " + all[1]);
+			writer.newLine();
+			writer.write("WORDCON: " + all[2]);
+			writer.newLine();
+			writer.write("POS: " + all[3]);
+			writer.newLine();
+			writer.write("POSCON: " + all[4]);
+			writer.newLine();
+			writer.write("ABBR: " + all[5]);
+			writer.newLine();
+			writer.write("CAP: " + all[6]);
+			writer.newLine();
+			writer.write("LOCATION: " + all[7]);
+			for (i = 1; i < size; i++) {
 				all = nodes.get(i).getAll();
+				writer.newLine();
+				writer.newLine();
 				writer.write("WORD: " + all[1]);
+				writer.newLine();
 				writer.write("WORDCON: " + all[2]);
+				writer.newLine();
 				writer.write("POS: " + all[3]);
+				writer.newLine();
 				writer.write("POSCON: " + all[4]);
+				writer.newLine();
 				writer.write("ABBR: " + all[5]);
+				writer.newLine();
 				writer.write("CAP: " + all[6]);
-				writer.write("LOCATION: " + all[7]);
 				writer.newLine();
-				writer.newLine();
+				writer.write("LOCATION: " + all[7]);			
 			}
 
 		} catch (IOException e) {

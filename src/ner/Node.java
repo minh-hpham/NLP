@@ -22,7 +22,7 @@ public class Node {
 	}
 	public void setABBR(boolean isOption) {
 		if (isOption) {
-			ABBR = WORD.length() <= 4 && WORD.matches("^([a-zA-Z]){1,3}(\\.+)$") ? "yes" : "no";
+			ABBR = WORD.length() <= 4 && WORD.matches("^([a-zA-Z]){0,3}(\\.+)$") ? "yes" : "no";
 		} else {
 			ABBR = "n/a";
 		}
