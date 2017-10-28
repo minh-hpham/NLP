@@ -11,6 +11,9 @@ public class Node {
 	public String[] getAll() {
 		return new String[]{LABEL, WORD, WORDCON, POS,  POSCON, ABBR, CAP, LOCATION};
 	}
+	public void setWORD(String s) {
+		WORD = s;
+	}
 	public void setWORDCON(String s) {
 		WORDCON = s;
 	}
@@ -22,7 +25,7 @@ public class Node {
 	}
 	public void setABBR(boolean isOption) {
 		if (isOption) {
-			ABBR = WORD.length() <= 4 && WORD.matches("^([a-zA-Z]){0,3}(\\.+)$|\\.") ? "yes" : "no";
+			ABBR = WORD.length() <= 4 && WORD.matches("^([a-zA-Z]*\\.+)+$") ? "yes" : "no";
 		} else {
 			ABBR = "n/a";
 		}
@@ -36,7 +39,7 @@ public class Node {
 	}
 	public void setABBR(boolean isOption, String originalWord) {
 		if (isOption) {
-			ABBR = WORD.length() <= 4 && originalWord.matches("^([a-zA-Z]){0,3}(\\.+)$|\\.") ? "yes" : "no";
+			ABBR = originalWord.length() <= 4 && originalWord.matches("^([a-zA-Z]*\\.+)+$") ? "yes" : "no";
 		} else {
 			ABBR = "n/a";
 		}

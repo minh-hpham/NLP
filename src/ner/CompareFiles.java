@@ -18,10 +18,13 @@ public class CompareFiles {
 			reader1 = new BufferedReader(new InputStreamReader(in1));
 			reader2 = new BufferedReader(new InputStreamReader(in2));
 			String line1,line2;
+			String pre1 = null, pre2 = null;
 			while ((line1 = reader1.readLine()) != null && (line2 = reader2.readLine()) != null) {
 				if (! line1.equals(line2)) {
-					System.out.println("my " + line1 + " her "+line2);
+					System.out.println("my " + line1 + " her "+line2+ " after "+pre1+" "+pre2);
 				}
+				pre1 = line1;
+				pre2 = line2;
 			}
 
 		} catch (IOException e) {
@@ -33,3 +36,4 @@ public class CompareFiles {
 	}
 
 }
+
