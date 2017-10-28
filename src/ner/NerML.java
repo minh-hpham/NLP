@@ -68,8 +68,8 @@ public class NerML {
 		integerLabel.put("I-ORG", 6);
 		// train.vector
 		generateVector(trainNodes, feature, integerLabel, "train.txt.vector");
-		// // test.vector
-		// generateVector(testNodes, feature, integerLabel, "test.txt.vector");
+		 // test.vector
+		 generateVector(testNodes, feature, integerLabel, "test.txt.vector");
 
 	}
 
@@ -372,50 +372,54 @@ public class NerML {
 			fw = new FileWriter(file);
 			writer = new BufferedWriter(fw);
 			StringBuilder sb = new StringBuilder();
-			// first line
-			int i = 0;
-			all = nodes.get(i).getAll();
-			// label
-			sb.append(integerLabel.get(all[0]));
-			sb.append(" ");
-			// features
-			split = all[4].split("\\s+");
-			ArrayList<Integer> index = new ArrayList<>();
-			index.add(feature.get("pos-" + all[3]));
-			index.add(feature.get("prev-pos-" + split[0]));
-			index.add(feature.get("next-pos-" + split[1]));
-
-			if (all[5].equals("yes")) {
-				index.add(feature.get("abbreviated"));
-			}
-			if (all[6].equals("yes")) {
-				index.add(feature.get("capitalized"));
-			}
-			if (all[7].equals("yes")) {
-				index.add(feature.get("islocation"));
-			}
-			Collections.sort(index);
-			// pos, prev pos, next pos
-			for (int j = 0; j < index.size(); j++) {
-				sb.append(index.get(j));
-				sb.append(":1 ");
-			}
-			writer.write(sb.toString());
-			sb.setLength(0);
-
-			for (i = 1; i < size; i++) {
-				writer.newLine();
+//			// first line
+//			int i = 0;
+//			all = nodes.get(i).getAll();
+//			// label
+//			sb.append(integerLabel.get(all[0]));
+//			sb.append(" ");
+//			// features
+//			split = all[4].split("\\s+");
+//			ArrayList<Integer> index = new ArrayList<>();
+//			index.add(feature.get("pos-" + all[3]));
+//			index.add(feature.get("prev-pos-" + split[0]));
+//			index.add(feature.get("next-pos-" + split[1]));
+//
+//			if (all[5].equals("yes")) {
+//				index.add(feature.get("abbreviated"));
+//			}
+//			if (all[6].equals("yes")) {
+//				index.add(feature.get("capitalized"));
+//			}
+//			if (all[7].equals("yes")) {
+//				index.add(feature.get("islocation"));
+//			}
+//			Collections.sort(index);
+//			// pos, prev pos, next pos
+//			for (int j = 0; j < index.size(); j++) {
+//				sb.append(index.get(j));
+//				sb.append(":1 ");
+//			}
+//			writer.write(sb.toString());
+//			sb.setLength(0);
+			ArrayList<Integer> index = null;
+			for (int i = 0; i < size; i++) {
 				all = nodes.get(i).getAll();
 				// label
 				sb.append(integerLabel.get(all[0]));
 				sb.append(" ");
 				// features
-				split = all[4].split("\\s+");
-				index = new ArrayList<>();
-				index.add(feature.get("pos-" + all[3]));
-				index.add(feature.get("prev-pos-" + split[0]));
-				index.add(feature.get("next-pos-" + split[1]));
 
+				index = new ArrayList<>();
+				if (all[3].equals("n/a") == false) {
+					index.add(feature.get("pos-" + all[3]));
+				}
+				if (all[4].equals("n/a") == false) {
+					split = all[4].split("\\s+");
+					index.add(feature.get("prev-pos-" + split[0]));
+					index.add(feature.get("next-pos-" + split[1]));
+				}
+				
 				if (all[5].equals("yes")) {
 					index.add(feature.get("abbreviated"));
 				}
@@ -433,6 +437,7 @@ public class NerML {
 				}
 				writer.write(sb.toString());
 				sb.setLength(0);
+				writer.newLine();
 			}
 
 		} catch (IOException e) {
